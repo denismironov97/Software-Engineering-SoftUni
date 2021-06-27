@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.USDToBGN", "Ex.01.USD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.RadiansToDegrees", "Ex.02.RadiansToDegrees\Ex.02.RadiansToDegrees.csproj", "{42D6329D-8FD6-4EF8-AF9C-88393BFD2F3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.DepositCalculator", "Ex.03.DepositCalculator\Ex.03.DepositCalculator.csproj", "{64472776-A04C-49C3-A35E-1C6EE8657B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42D6329D-8FD6-4EF8-AF9C-88393BFD2F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D6329D-8FD6-4EF8-AF9C-88393BFD2F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D6329D-8FD6-4EF8-AF9C-88393BFD2F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
