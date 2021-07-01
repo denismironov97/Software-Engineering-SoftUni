@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.Number100.200", "Lab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.PasswordGuess", "Lab.06.PasswordGuess\Lab.06.PasswordGuess.csproj", "{48E65534-FB77-4EF3-AEE9-39716BCBBC77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.07.AreaOfFigures", "Lab.07.AreaOfFigures\Lab.07.AreaOfFigures.csproj", "{14453924-3635-4789-B5F6-12E977727553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.07.AreaOfFigures", "Lab.07.AreaOfFigures\Lab.07.AreaOfFigures.csproj", "{14453924-3635-4789-B5F6-12E977727553}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.08.ToyShop", "Lab.08.ToyShop\Lab.08.ToyShop.csproj", "{AA67B2C3-DB4E-4D2F-BC7B-56E2DF13CE1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.08.ToyShop", "Lab.08.ToyShop\Lab.08.ToyShop.csproj", "{AA67B2C3-DB4E-4D2F-BC7B-56E2DF13CE1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.SumSeconds", "Lab.01.SumSeconds\Lab.01.SumSeconds.csproj", "{13DD21A6-2AC8-4E5E-A53A-B4E39807E2C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex..01.SumSeconds", "Lab.01.SumSeconds\Ex..01.SumSeconds.csproj", "{13DD21A6-2AC8-4E5E-A53A-B4E39807E2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.BonusScore", "Ex.02.BonusScore\Ex.02.BonusScore.csproj", "{D62F5C8F-501C-42F9-82E3-A15277A86241}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{13DD21A6-2AC8-4E5E-A53A-B4E39807E2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13DD21A6-2AC8-4E5E-A53A-B4E39807E2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13DD21A6-2AC8-4E5E-A53A-B4E39807E2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62F5C8F-501C-42F9-82E3-A15277A86241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62F5C8F-501C-42F9-82E3-A15277A86241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62F5C8F-501C-42F9-82E3-A15277A86241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62F5C8F-501C-42F9-82E3-A15277A86241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
