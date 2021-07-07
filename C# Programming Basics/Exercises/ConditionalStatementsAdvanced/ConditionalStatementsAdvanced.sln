@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.10.InvalidNumber", "Lab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.11.FruitShop", "Lab.11.FruitShop\Lab.11.FruitShop.csproj", "{8FF7829C-7808-4EE4-AF2A-401EE922DDA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.12.TradeCommission", "Lab.12.TradeCommission\Lab.12.TradeCommission.csproj", "{ED8A7182-5AF8-4F65-B61D-8E6DF764D261}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8FF7829C-7808-4EE4-AF2A-401EE922DDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FF7829C-7808-4EE4-AF2A-401EE922DDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FF7829C-7808-4EE4-AF2A-401EE922DDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8A7182-5AF8-4F65-B61D-8E6DF764D261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8A7182-5AF8-4F65-B61D-8E6DF764D261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8A7182-5AF8-4F65-B61D-8E6DF764D261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8A7182-5AF8-4F65-B61D-8E6DF764D261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
