@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.SmallShop", "Lab.05.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.NumberInRange", "Lab.06.NumberInRange\Lab.06.NumberInRange.csproj", "{0218D238-C466-4009-A086-3D557D351A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.07.WorkingHours", "Lab.07.WorkingHours\Lab.07.WorkingHours.csproj", "{E66E5C0B-F89C-48F7-976D-1112BC32853A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.07.WorkingHours", "Lab.07.WorkingHours\Lab.07.WorkingHours.csproj", "{E66E5C0B-F89C-48F7-976D-1112BC32853A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.08.CinemaTicket", "Lab.08.CinemaTicket\Lab.08.CinemaTicket.csproj", "{C1109E6D-A5BC-41B8-A374-99892323FFC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.08.CinemaTicket", "Lab.08.CinemaTicket\Lab.08.CinemaTicket.csproj", "{C1109E6D-A5BC-41B8-A374-99892323FFC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.09.FruitRVegetable", "Lab.09.FruitRVegetable\Lab.09.FruitRVegetable.csproj", "{1D927E82-6DF3-414B-B06E-002D81FABDF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.09.FruitRVegetable", "Lab.09.FruitRVegetable\Lab.09.FruitRVegetable.csproj", "{1D927E82-6DF3-414B-B06E-002D81FABDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.10.InvalidNumber", "Lab.10.InvalidNumber\Lab.10.InvalidNumber.csproj", "{07F01076-A5A4-4719-8339-5E80C7558EC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1D927E82-6DF3-414B-B06E-002D81FABDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D927E82-6DF3-414B-B06E-002D81FABDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D927E82-6DF3-414B-B06E-002D81FABDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F01076-A5A4-4719-8339-5E80C7558EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F01076-A5A4-4719-8339-5E80C7558EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F01076-A5A4-4719-8339-5E80C7558EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F01076-A5A4-4719-8339-5E80C7558EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
