@@ -37,11 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.NewHouse", "Ex.03.New
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.FishingBoat", "Ex.04.FishingBoat\Ex.04.FishingBoat.csproj", "{DD0FE239-7446-4B8D-A765-9426822CE196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.Journey", "Ex.05.Journey\Ex.05.Journey.csproj", "{6B7F5902-4C78-406D-98DD-66D15E11360B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.Journey", "Ex.05.Journey\Ex.05.Journey.csproj", "{6B7F5902-4C78-406D-98DD-66D15E11360B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.Ope-sBetweenNums", "Ex.06.Ope-sBetweenNums\Ex.06.Ope-sBetweenNums.csproj", "{E66DA0CC-AF43-4CE7-8975-D9D1F8796A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.06.Ope-sBetweenNums", "Ex.06.Ope-sBetweenNums\Ex.06.Ope-sBetweenNums.csproj", "{E66DA0CC-AF43-4CE7-8975-D9D1F8796A16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.07.HotelRoom", "Ex.07.HotelRoom\Ex.07.HotelRoom.csproj", "{AD208E09-EB15-4CAA-842D-F435A2F1D19A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.07.HotelRoom", "Ex.07.HotelRoom\Ex.07.HotelRoom.csproj", "{AD208E09-EB15-4CAA-842D-F435A2F1D19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.08.OnTimeForTheExam", "Ex.08.OnTimeForTheExam\Ex.08.OnTimeForTheExam.csproj", "{FA93249A-E539-4FD8-90C7-298DFD83E326}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{AD208E09-EB15-4CAA-842D-F435A2F1D19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD208E09-EB15-4CAA-842D-F435A2F1D19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD208E09-EB15-4CAA-842D-F435A2F1D19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
