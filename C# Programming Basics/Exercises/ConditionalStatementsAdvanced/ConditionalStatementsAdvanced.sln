@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.07.HotelRoom", "Ex.07.Ho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.08.OnTimeForTheExam", "Ex.08.OnTimeForTheExam\Ex.08.OnTimeForTheExam.csproj", "{FA93249A-E539-4FD8-90C7-298DFD83E326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.09.Volleyball", "Ex.09.Volleyball\Ex.09.Volleyball.csproj", "{2AE2386F-10FC-4E38-B0F0-28E24AFAD2E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA93249A-E539-4FD8-90C7-298DFD83E326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE2386F-10FC-4E38-B0F0-28E24AFAD2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE2386F-10FC-4E38-B0F0-28E24AFAD2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE2386F-10FC-4E38-B0F0-28E24AFAD2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE2386F-10FC-4E38-B0F0-28E24AFAD2E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
