@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.07.SumNumbers", "Lab.07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.08.NumberSequence", "Lab.08.NumberSequence\Lab.08.NumberSequence.csproj", "{08CBDB46-C1C5-475D-93EA-8FB3CB471252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.09.LeftAndRightSum", "Lab.09.LeftAndRightSum\Lab.09.LeftAndRightSum.csproj", "{F7E4E161-02FD-47B9-B7FA-51C5327F5D79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{08CBDB46-C1C5-475D-93EA-8FB3CB471252}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08CBDB46-C1C5-475D-93EA-8FB3CB471252}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08CBDB46-C1C5-475D-93EA-8FB3CB471252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E4E161-02FD-47B9-B7FA-51C5327F5D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E4E161-02FD-47B9-B7FA-51C5327F5D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E4E161-02FD-47B9-B7FA-51C5327F5D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E4E161-02FD-47B9-B7FA-51C5327F5D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
