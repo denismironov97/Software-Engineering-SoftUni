@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.10.OddEvenSum", "Lab.10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.11.CleverLily", "Lab.11.CleverLily\Lab.11.CleverLily.csproj", "{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.NumbersEndingIn7", "Ex.01.NumbersEndingIn7\Ex.01.NumbersEndingIn7.csproj", "{1682C109-90EC-485A-95F5-B3CB3259A2FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1682C109-90EC-485A-95F5-B3CB3259A2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1682C109-90EC-485A-95F5-B3CB3259A2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1682C109-90EC-485A-95F5-B3CB3259A2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1682C109-90EC-485A-95F5-B3CB3259A2FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
