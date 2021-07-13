@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.08.NumberSequence", "La
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.09.LeftAndRightSum", "Lab.09.LeftAndRightSum\Lab.09.LeftAndRightSum.csproj", "{F7E4E161-02FD-47B9-B7FA-51C5327F5D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.10.OddEvenSum", "Lab.10.OddEvenSum\Lab.10.OddEvenSum.csproj", "{CE8A6E6D-7EF3-4DA5-ABB8-EBC172A0984C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.10.OddEvenSum", "Lab.10.OddEvenSum\Lab.10.OddEvenSum.csproj", "{CE8A6E6D-7EF3-4DA5-ABB8-EBC172A0984C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.11.CleverLily", "Lab.11.CleverLily\Lab.11.CleverLily.csproj", "{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{CE8A6E6D-7EF3-4DA5-ABB8-EBC172A0984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE8A6E6D-7EF3-4DA5-ABB8-EBC172A0984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE8A6E6D-7EF3-4DA5-ABB8-EBC172A0984C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
