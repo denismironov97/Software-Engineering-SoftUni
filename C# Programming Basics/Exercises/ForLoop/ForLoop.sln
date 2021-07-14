@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.NumbersEndingIn7ModV1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.OddEvenPosition", "Ex.03.OddEvenPosition\Ex.03.OddEvenPosition.csproj", "{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.Histogram", "Ex.04.Histogram\Ex.04.Histogram.csproj", "{D62CE873-139D-4420-B143-51A156DBEC2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62CE873-139D-4420-B143-51A156DBEC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62CE873-139D-4420-B143-51A156DBEC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62CE873-139D-4420-B143-51A156DBEC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62CE873-139D-4420-B143-51A156DBEC2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
