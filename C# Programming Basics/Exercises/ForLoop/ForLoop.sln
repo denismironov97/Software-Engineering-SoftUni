@@ -31,13 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.09.LeftAndRightSum", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.10.OddEvenSum", "Lab.10.OddEvenSum\Lab.10.OddEvenSum.csproj", "{CE8A6E6D-7EF3-4DA5-ABB8-EBC172A0984C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.11.CleverLily", "Lab.11.CleverLily\Lab.11.CleverLily.csproj", "{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.11.CleverLily", "Lab.11.CleverLily\Lab.11.CleverLily.csproj", "{67E19204-D3CE-43C6-B6B3-BFA7AFCD322B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.NumbersEndingIn7", "Ex.01.NumbersEndingIn7\Ex.01.NumbersEndingIn7.csproj", "{1682C109-90EC-485A-95F5-B3CB3259A2FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.NumbersEndingIn7", "Ex.01.NumbersEndingIn7\Ex.01.NumbersEndingIn7.csproj", "{1682C109-90EC-485A-95F5-B3CB3259A2FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.HalfSumElement", "Ex.02.HalfSumElement\Ex.02.HalfSumElement.csproj", "{672A3145-43C6-4FB1-9535-3E57B9F889A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.HalfSumElement", "Ex.02.HalfSumElement\Ex.02.HalfSumElement.csproj", "{672A3145-43C6-4FB1-9535-3E57B9F889A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.NumbersEndingIn7ModV1", "Ex.01.NumbersEndingIn7ModV1\Ex.01.NumbersEndingIn7ModV1.csproj", "{E310B054-2E09-455F-8AF2-F3093A2894CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.NumbersEndingIn7ModV1", "Ex.01.NumbersEndingIn7ModV1\Ex.01.NumbersEndingIn7ModV1.csproj", "{E310B054-2E09-455F-8AF2-F3093A2894CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.OddEvenPosition", "Ex.03.OddEvenPosition\Ex.03.OddEvenPosition.csproj", "{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{E310B054-2E09-455F-8AF2-F3093A2894CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E310B054-2E09-455F-8AF2-F3093A2894CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E310B054-2E09-455F-8AF2-F3093A2894CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AF6D3C-190C-4D22-9DAF-41F2CD0E91DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
