@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.OddEvenPosition", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.Histogram", "Ex.04.Histogram\Ex.04.Histogram.csproj", "{D62CE873-139D-4420-B143-51A156DBEC2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.DivideWithoutRemainder", "Ex.05.DivideWithoutRemainder\Ex.05.DivideWithoutRemainder.csproj", "{8F9D3EA2-3035-4BF2-B929-F27A4331E24B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D62CE873-139D-4420-B143-51A156DBEC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D62CE873-139D-4420-B143-51A156DBEC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D62CE873-139D-4420-B143-51A156DBEC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9D3EA2-3035-4BF2-B929-F27A4331E24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9D3EA2-3035-4BF2-B929-F27A4331E24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9D3EA2-3035-4BF2-B929-F27A4331E24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9D3EA2-3035-4BF2-B929-F27A4331E24B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
