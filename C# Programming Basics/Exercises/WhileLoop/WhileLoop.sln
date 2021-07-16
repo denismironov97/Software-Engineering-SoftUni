@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.ReadText", "Lab.01.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.Password", "Lab.02.Password\Lab.02.Password.csproj", "{CB5F7E6C-1B89-4B97-A052-8B1D529BF69B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.SumNumbers", "Lab.03.SumNumbers\Lab.03.SumNumbers.csproj", "{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CB5F7E6C-1B89-4B97-A052-8B1D529BF69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB5F7E6C-1B89-4B97-A052-8B1D529BF69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB5F7E6C-1B89-4B97-A052-8B1D529BF69B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
