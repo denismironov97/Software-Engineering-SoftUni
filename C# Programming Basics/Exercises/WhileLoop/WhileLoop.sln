@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.ReadText", "Lab.01.ReadText\Lab.01.ReadText.csproj", "{FB7BA028-3547-44A3-B5A7-8D27575C78CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.ReadText", "Lab.01.ReadText\Lab.01.ReadText.csproj", "{FB7BA028-3547-44A3-B5A7-8D27575C78CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.Password", "Lab.02.Password\Lab.02.Password.csproj", "{CB5F7E6C-1B89-4B97-A052-8B1D529BF69B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.Password", "Lab.02.Password\Lab.02.Password.csproj", "{CB5F7E6C-1B89-4B97-A052-8B1D529BF69B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.SumNumbers", "Lab.03.SumNumbers\Lab.03.SumNumbers.csproj", "{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.SumNumbers", "Lab.03.SumNumbers\Lab.03.SumNumbers.csproj", "{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.04.Sequence2k+1", "Lab.04.Sequence2k+1\Lab.04.Sequence2k+1.csproj", "{84BAA478-ABED-441C-9265-D29088B645F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB26EBA7-E1D1-4C1E-87BB-8E69FF4EB0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BAA478-ABED-441C-9265-D29088B645F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BAA478-ABED-441C-9265-D29088B645F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BAA478-ABED-441C-9265-D29088B645F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BAA478-ABED-441C-9265-D29088B645F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
