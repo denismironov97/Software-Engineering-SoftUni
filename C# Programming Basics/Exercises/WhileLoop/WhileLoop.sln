@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.04.Sequence2k+1", "Lab.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.AccountBalance", "Lab.05.AccountBalance\Lab.05.AccountBalance.csproj", "{D2534EFA-6795-4157-B49E-66338AAB33CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.MaxNumber", "Lab.06.MaxNumber\Lab.06.MaxNumber.csproj", "{485588A3-93BE-4555-842B-B460903D4A00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D2534EFA-6795-4157-B49E-66338AAB33CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2534EFA-6795-4157-B49E-66338AAB33CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2534EFA-6795-4157-B49E-66338AAB33CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485588A3-93BE-4555-842B-B460903D4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485588A3-93BE-4555-842B-B460903D4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485588A3-93BE-4555-842B-B460903D4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485588A3-93BE-4555-842B-B460903D4A00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
