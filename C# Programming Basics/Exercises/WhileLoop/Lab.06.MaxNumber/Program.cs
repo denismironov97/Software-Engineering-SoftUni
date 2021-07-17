@@ -17,6 +17,7 @@ namespace Lab._06.MaxNumber
                 {
                     maxValue = currentNum;
                 }
+
                 inputnum = Console.ReadLine();
             }
 
