@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.Coins", "Ex.05.Coins\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.Cake", "Ex.06.Cake\Ex.06.Cake.csproj", "{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.CakeModV1", "Ex.06.CakeModV1\Ex.06.CakeModV1.csproj", "{53BDD4EA-63BF-45A0-8BD4-C26592293DD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BDD4EA-63BF-45A0-8BD4-C26592293DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BDD4EA-63BF-45A0-8BD4-C26592293DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BDD4EA-63BF-45A0-8BD4-C26592293DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BDD4EA-63BF-45A0-8BD4-C26592293DD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
