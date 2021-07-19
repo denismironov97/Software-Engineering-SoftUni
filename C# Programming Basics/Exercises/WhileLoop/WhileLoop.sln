@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.Walking", "Ex.04.Walk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.Coins", "Ex.05.Coins\Ex.05.Coins.csproj", "{145A70BB-A9A3-4516-BBE2-80B49407803E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.Cake", "Ex.06.Cake\Ex.06.Cake.csproj", "{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{145A70BB-A9A3-4516-BBE2-80B49407803E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{145A70BB-A9A3-4516-BBE2-80B49407803E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{145A70BB-A9A3-4516-BBE2-80B49407803E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4132D7-B452-4DF3-8532-AFAD943C8A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
