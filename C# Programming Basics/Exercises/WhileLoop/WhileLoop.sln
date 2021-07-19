@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.MaxNumber", "Lab.06.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.07.MinNumber", "Lab.07.MinNumber\Lab.07.MinNumber.csproj", "{F6094643-30E5-4F6A-822A-0E4B384807CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.08.GraduationPt.2", "Lab.08.GraduationPt.2\Lab.08.GraduationPt.2.csproj", "{4995E72F-2700-493A-94B5-849406AE14FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.08.GraduationPt.2", "Lab.08.GraduationPt.2\Lab.08.GraduationPt.2.csproj", "{4995E72F-2700-493A-94B5-849406AE14FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.09.Moving", "Lab.09.Moving\Lab.09.Moving.csproj", "{E9488269-91F4-43D0-A6D2-F092003FC2B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.09.Moving", "Lab.09.Moving\Lab.09.Moving.csproj", "{E9488269-91F4-43D0-A6D2-F092003FC2B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.OldBooks", "Ex.01.OldBooks\Ex.01.OldBooks.csproj", "{3B20E45D-AB80-469A-8781-BE4B427EACEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.OldBooks", "Ex.01.OldBooks\Ex.01.OldBooks.csproj", "{3B20E45D-AB80-469A-8781-BE4B427EACEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.OldBooksModV1", "Ex.01.OldBooksModV1\Ex.01.OldBooksModV1.csproj", "{7EABEFF5-05F2-426A-82B9-A2806D71E007}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.OldBooksModV1", "Ex.01.OldBooksModV1\Ex.01.OldBooksModV1.csproj", "{7EABEFF5-05F2-426A-82B9-A2806D71E007}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.ExamPreparation", "Ex.02.ExamPreparation\Ex.02.ExamPreparation.csproj", "{3924654F-483B-4245-9735-578230BF11BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.ExamPreparation", "Ex.02.ExamPreparation\Ex.02.ExamPreparation.csproj", "{3924654F-483B-4245-9735-578230BF11BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.Vacation", "Ex.03.Vacation\Ex.03.Vacation.csproj", "{68CEAB83-0D70-46AF-BC56-EF8A3CD68A74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{3924654F-483B-4245-9735-578230BF11BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3924654F-483B-4245-9735-578230BF11BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3924654F-483B-4245-9735-578230BF11BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CEAB83-0D70-46AF-BC56-EF8A3CD68A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CEAB83-0D70-46AF-BC56-EF8A3CD68A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CEAB83-0D70-46AF-BC56-EF8A3CD68A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CEAB83-0D70-46AF-BC56-EF8A3CD68A74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
