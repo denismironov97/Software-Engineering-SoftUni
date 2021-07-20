@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.Clock", "Lab.01.Clock\Lab.01.Clock.csproj", "{08B7A0E7-85CE-41A8-A300-6273848B68FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.MultiplicationTable", "Lab.02.MultiplicationTable\Lab.02.MultiplicationTable.csproj", "{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.MultiplicationTableModV1", "Lab.02.MultiplicationTableModV1\Lab.02.MultiplicationTableModV1.csproj", "{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{08B7A0E7-85CE-41A8-A300-6273848B68FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B7A0E7-85CE-41A8-A300-6273848B68FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B7A0E7-85CE-41A8-A300-6273848B68FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
