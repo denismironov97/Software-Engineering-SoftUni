@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.Clock", "Lab.01.Clock\Lab.01.Clock.csproj", "{08B7A0E7-85CE-41A8-A300-6273848B68FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.Clock", "Lab.01.Clock\Lab.01.Clock.csproj", "{08B7A0E7-85CE-41A8-A300-6273848B68FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.MultiplicationTable", "Lab.02.MultiplicationTable\Lab.02.MultiplicationTable.csproj", "{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.MultiplicationTable", "Lab.02.MultiplicationTable\Lab.02.MultiplicationTable.csproj", "{2A5E06EE-8C93-4464-A786-E2A682D9C2EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.MultiplicationTableModV1", "Lab.02.MultiplicationTableModV1\Lab.02.MultiplicationTableModV1.csproj", "{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.MultiplicationTableModV1", "Lab.02.MultiplicationTableModV1\Lab.02.MultiplicationTableModV1.csproj", "{51057DD4-8A4A-41A5-B635-8C12D35F3EB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.Combinations", "Lab.03.Combinations\Lab.03.Combinations.csproj", "{348060B8-0B26-4B69-A8E7-C8A91D6D9BDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.Combinations", "Lab.03.Combinations\Lab.03.Combinations.csproj", "{348060B8-0B26-4B69-A8E7-C8A91D6D9BDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.CombinationsModV1", "Lab.03.CombinationsModV1\Lab.03.CombinationsModV1.csproj", "{FBD01D2A-20EC-4FB8-9E44-BBD511584DFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.CombinationsModV1", "Lab.03.CombinationsModV1\Lab.03.CombinationsModV1.csproj", "{FBD01D2A-20EC-4FB8-9E44-BBD511584DFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.04.SumOfTwoNumbers", "Lab.04.SumOfTwoNumbers\Lab.04.SumOfTwoNumbers.csproj", "{AF2A6DF6-5AAA-4D2F-A2BF-9F8ED25FFF98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.04.SumOfTwoNumbers", "Lab.04.SumOfTwoNumbers\Lab.04.SumOfTwoNumbers.csproj", "{AF2A6DF6-5AAA-4D2F-A2BF-9F8ED25FFF98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.Travelling", "Lab.05.Travelling\Lab.05.Travelling.csproj", "{688E59BC-349C-4B55-9E16-E505955E9FB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{AF2A6DF6-5AAA-4D2F-A2BF-9F8ED25FFF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF2A6DF6-5AAA-4D2F-A2BF-9F8ED25FFF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF2A6DF6-5AAA-4D2F-A2BF-9F8ED25FFF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688E59BC-349C-4B55-9E16-E505955E9FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688E59BC-349C-4B55-9E16-E505955E9FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688E59BC-349C-4B55-9E16-E505955E9FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688E59BC-349C-4B55-9E16-E505955E9FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
