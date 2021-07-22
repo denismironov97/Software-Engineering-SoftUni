@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.CombinationsModV1", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.04.SumOfTwoNumbers", "Lab.04.SumOfTwoNumbers\Lab.04.SumOfTwoNumbers.csproj", "{AF2A6DF6-5AAA-4D2F-A2BF-9F8ED25FFF98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.Travelling", "Lab.05.Travelling\Lab.05.Travelling.csproj", "{688E59BC-349C-4B55-9E16-E505955E9FB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.Travelling", "Lab.05.Travelling\Lab.05.Travelling.csproj", "{688E59BC-349C-4B55-9E16-E505955E9FB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.Building", "Lab.06.Building\Lab.06.Building.csproj", "{B9AE6F70-C922-4C70-B607-D11540061721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.Building", "Lab.06.Building\Lab.06.Building.csproj", "{B9AE6F70-C922-4C70-B607-D11540061721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.BuildingModV1", "Lab.06.BuildingModV1\Lab.06.BuildingModV1.csproj", "{3C3924B6-5456-4320-B613-36712AFFF63B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.BuildingModV1", "Lab.06.BuildingModV1\Lab.06.BuildingModV1.csproj", "{3C3924B6-5456-4320-B613-36712AFFF63B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.BuildingModV2", "Lab.06.BuildingModV2\Lab.06.BuildingModV2.csproj", "{FE6ED023-ED54-404C-A499-041C858413B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3C3924B6-5456-4320-B613-36712AFFF63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C3924B6-5456-4320-B613-36712AFFF63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C3924B6-5456-4320-B613-36712AFFF63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6ED023-ED54-404C-A499-041C858413B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6ED023-ED54-404C-A499-041C858413B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6ED023-ED54-404C-A499-041C858413B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6ED023-ED54-404C-A499-041C858413B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
