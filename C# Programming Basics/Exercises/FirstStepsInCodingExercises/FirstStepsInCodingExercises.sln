@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.HelloSoftUni", "Lab.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.Nums1To10", "Lab.02.Nums1To10\Lab.02.Nums1To10.csproj", "{6770C6BB-AF2E-4140-B130-2CE820712B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.Nums1To10ModV1", "Lab.02.Nums1To10ModV1\Lab.02.Nums1To10ModV1.csproj", "{7A6D4496-D124-4AEE-9588-B8F5A10A1F3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6770C6BB-AF2E-4140-B130-2CE820712B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6770C6BB-AF2E-4140-B130-2CE820712B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6770C6BB-AF2E-4140-B130-2CE820712B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6D4496-D124-4AEE-9588-B8F5A10A1F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6D4496-D124-4AEE-9588-B8F5A10A1F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6D4496-D124-4AEE-9588-B8F5A10A1F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6D4496-D124-4AEE-9588-B8F5A10A1F3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
