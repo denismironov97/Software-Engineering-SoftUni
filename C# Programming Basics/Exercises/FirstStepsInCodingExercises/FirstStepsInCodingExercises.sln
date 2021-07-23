@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.USDToBGN", "Ex.01.USDToBGN\Ex.01.USDToBGN.csproj", "{A9AF8973-8385-4DD6-83FA-B4A19805C129}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.USDToBGN", "Ex.01.USDToBGN\Ex.01.USDToBGN.csproj", "{A9AF8973-8385-4DD6-83FA-B4A19805C129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.RadiansToDegrees", "Ex.02.RadiansToDegrees\Ex.02.RadiansToDegrees.csproj", "{42D6329D-8FD6-4EF8-AF9C-88393BFD2F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.RadiansToDegrees", "Ex.02.RadiansToDegrees\Ex.02.RadiansToDegrees.csproj", "{42D6329D-8FD6-4EF8-AF9C-88393BFD2F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.DepositCalculator", "Ex.03.DepositCalculator\Ex.03.DepositCalculator.csproj", "{64472776-A04C-49C3-A35E-1C6EE8657B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.DepositCalculator", "Ex.03.DepositCalculator\Ex.03.DepositCalculator.csproj", "{64472776-A04C-49C3-A35E-1C6EE8657B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.HelloSoftUni", "Lab.01.HelloSoftUni\Lab.01.HelloSoftUni.csproj", "{5C8420EE-9B0A-490F-86B6-371597B4DD03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64472776-A04C-49C3-A35E-1C6EE8657B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8420EE-9B0A-490F-86B6-371597B4DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8420EE-9B0A-490F-86B6-371597B4DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8420EE-9B0A-490F-86B6-371597B4DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8420EE-9B0A-490F-86B6-371597B4DD03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
