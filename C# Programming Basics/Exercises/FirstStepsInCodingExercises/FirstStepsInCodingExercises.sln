@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.Nums1To10", "Lab.02.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.Nums1To10ModV1", "Lab.02.Nums1To10ModV1\Lab.02.Nums1To10ModV1.csproj", "{7A6D4496-D124-4AEE-9588-B8F5A10A1F3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.SquareArea", "Lab.03.SquareArea\Lab.03.SquareArea.csproj", "{DD9D1198-1FC4-4ADF-AE21-45B4C287D946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.SquareArea", "Lab.03.SquareArea\Lab.03.SquareArea.csproj", "{DD9D1198-1FC4-4ADF-AE21-45B4C287D946}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.04.InchesToCm", "Lab.04.InchesToCm\Lab.04.InchesToCm.csproj", "{C9379F37-AC44-43CB-9C46-3FDC6DF088A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.04.InchesToCm", "Lab.04.InchesToCm\Lab.04.InchesToCm.csproj", "{C9379F37-AC44-43CB-9C46-3FDC6DF088A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.GreetingByName", "Lab.05.GreetingByName\Lab.05.GreetingByName.csproj", "{EC5F3B7C-2BE5-46B6-97AC-4A929DD9B349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.GreetingByName", "Lab.05.GreetingByName\Lab.05.GreetingByName.csproj", "{EC5F3B7C-2BE5-46B6-97AC-4A929DD9B349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.ConcatenateData", "Lab.06.ConcatenateData\Lab.06.ConcatenateData.csproj", "{24721ECA-7CD0-45A5-893C-AE7EB13004BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.ConcatenateData", "Lab.06.ConcatenateData\Lab.06.ConcatenateData.csproj", "{24721ECA-7CD0-45A5-893C-AE7EB13004BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.ConctModV1", "Lab.06.ConctModV1\Lab.06.ConctModV1.csproj", "{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{24721ECA-7CD0-45A5-893C-AE7EB13004BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24721ECA-7CD0-45A5-893C-AE7EB13004BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24721ECA-7CD0-45A5-893C-AE7EB13004BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
