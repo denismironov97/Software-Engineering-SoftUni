@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.GreetingByName", "La
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.ConcatenateData", "Lab.06.ConcatenateData\Lab.06.ConcatenateData.csproj", "{24721ECA-7CD0-45A5-893C-AE7EB13004BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.ConctModV1", "Lab.06.ConctModV1\Lab.06.ConctModV1.csproj", "{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.ConctModV1", "Lab.06.ConctModV1\Lab.06.ConctModV1.csproj", "{800BEEE1-E168-4FF0-A4B7-D59087EDB79B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.07.PrjCre-ion", "Lab.07.PrjCre-ion\Lab.07.PrjCre-ion.csproj", "{1674D26C-4977-481B-9054-BCCFCAA1589C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.07.PrjCre-ion", "Lab.07.PrjCre-ion\Lab.07.PrjCre-ion.csproj", "{1674D26C-4977-481B-9054-BCCFCAA1589C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.08.PetShop", "Lab.08.PetShop\Lab.08.PetShop.csproj", "{AB903866-F1B8-4E36-90CE-9CF67D043DCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.08.PetShop", "Lab.08.PetShop\Lab.08.PetShop.csproj", "{AB903866-F1B8-4E36-90CE-9CF67D043DCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.08.PetShopV1", "Lab.08.PetShopV1\Lab.08.PetShopV1.csproj", "{20C7002A-F9CE-4D85-B153-90AEE7867656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.08.PetShopV1", "Lab.08.PetShopV1\Lab.08.PetShopV1.csproj", "{20C7002A-F9CE-4D85-B153-90AEE7867656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.09.YardGreening", "Lab.09.YardGreening\Lab.09.YardGreening.csproj", "{5839493A-2DE9-4C0C-AB68-CBDE9018C5A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{20C7002A-F9CE-4D85-B153-90AEE7867656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C7002A-F9CE-4D85-B153-90AEE7867656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20C7002A-F9CE-4D85-B153-90AEE7867656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5839493A-2DE9-4C0C-AB68-CBDE9018C5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5839493A-2DE9-4C0C-AB68-CBDE9018C5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5839493A-2DE9-4C0C-AB68-CBDE9018C5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5839493A-2DE9-4C0C-AB68-CBDE9018C5A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
