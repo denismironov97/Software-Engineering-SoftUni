@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.NumberPyramidModV1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.EqualSumsEvenOddPosition", "Ex.02.EqualSumsEvenOddPosition\Ex.02.EqualSumsEvenOddPosition.csproj", "{1D4F3F9E-F780-4A8C-B1EA-D2CE8F660913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.SumPrimeNonPrime", "Ex.03.SumPrimeNonPrime\Ex.03.SumPrimeNonPrime.csproj", "{6E049D82-3700-476F-9D12-CDD62970EED8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1D4F3F9E-F780-4A8C-B1EA-D2CE8F660913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D4F3F9E-F780-4A8C-B1EA-D2CE8F660913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D4F3F9E-F780-4A8C-B1EA-D2CE8F660913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E049D82-3700-476F-9D12-CDD62970EED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E049D82-3700-476F-9D12-CDD62970EED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E049D82-3700-476F-9D12-CDD62970EED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E049D82-3700-476F-9D12-CDD62970EED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
