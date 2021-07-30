@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.TrainTheTrainers", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.PasswordGenerator", "Ex.05.PasswordGenerator\Ex.05.PasswordGenerator.csproj", "{544158BF-7945-4697-8CC3-43548031FCD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.SpecialNumbers", "Ex.06.SpecialNumbers\Ex.06.SpecialNumbers.csproj", "{0C9496A2-4262-4F16-BAC1-31CC995936EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{544158BF-7945-4697-8CC3-43548031FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{544158BF-7945-4697-8CC3-43548031FCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{544158BF-7945-4697-8CC3-43548031FCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9496A2-4262-4F16-BAC1-31CC995936EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9496A2-4262-4F16-BAC1-31CC995936EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9496A2-4262-4F16-BAC1-31CC995936EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9496A2-4262-4F16-BAC1-31CC995936EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
