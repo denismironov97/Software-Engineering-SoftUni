@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.04.BackIn30Mins", "L.04.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.04.BackIn30MinsV1", "L.04.BackIn30MinsV1\L.04.BackIn30MinsV1.csproj", "{D020FE54-4CE3-4663-B4D9-FFF49ECA31F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.05.MonthPrinter", "L.05.MonthPrinter\L.05.MonthPrinter.csproj", "{5FDCC32D-AA6C-4E3C-AA6D-D84EAD9F7248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{D020FE54-4CE3-4663-B4D9-FFF49ECA31F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D020FE54-4CE3-4663-B4D9-FFF49ECA31F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D020FE54-4CE3-4663-B4D9-FFF49ECA31F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDCC32D-AA6C-4E3C-AA6D-D84EAD9F7248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDCC32D-AA6C-4E3C-AA6D-D84EAD9F7248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDCC32D-AA6C-4E3C-AA6D-D84EAD9F7248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDCC32D-AA6C-4E3C-AA6D-D84EAD9F7248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
