@@ -6,7 +6,16 @@ namespace L._09.SumOfOddNums
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numRows = int.Parse(Console.ReadLine());
+            int oddNum = 1;
+            int sum = 0;
+            for (int iterations = 1; iterations <= numRows; iterations++)
+            {
+                Console.WriteLine(oddNum);
+                sum += oddNum;
+                oddNum += 2;
+            }
+            Console.WriteLine($"Sum: {sum}");
         }
     }
 }
