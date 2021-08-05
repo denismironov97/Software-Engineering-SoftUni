@@ -6,7 +6,12 @@ namespace L._08.DivisibleBy3M1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int b = 3;
+            while (b <= 100)
+            {
+                Console.WriteLine(b);
+                b += 3;
+            }
         }
     }
 }
