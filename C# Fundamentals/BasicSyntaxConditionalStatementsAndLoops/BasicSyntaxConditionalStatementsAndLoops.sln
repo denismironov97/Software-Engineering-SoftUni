@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.AgesModV1", "Ex.01.Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.Division", "Ex.02.Division\Ex.02.Division.csproj", "{36CDE1A1-78CA-49C3-A5B6-A4AC6E1E0453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.Vacation", "Ex.03.Vacation\Ex.03.Vacation.csproj", "{ECB9556B-C9A1-4973-A080-C5F59CEEB448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{36CDE1A1-78CA-49C3-A5B6-A4AC6E1E0453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CDE1A1-78CA-49C3-A5B6-A4AC6E1E0453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CDE1A1-78CA-49C3-A5B6-A4AC6E1E0453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB9556B-C9A1-4973-A080-C5F59CEEB448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB9556B-C9A1-4973-A080-C5F59CEEB448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB9556B-C9A1-4973-A080-C5F59CEEB448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB9556B-C9A1-4973-A080-C5F59CEEB448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
