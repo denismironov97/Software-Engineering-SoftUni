@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.07.V-ingMach-eV1", "Ex.0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.10.RageExpenses", "Ex.10.RageExpenses\Ex.10.RageExpenses.csproj", "{BC56B6DC-A85E-4AED-920E-79E9FA8DB868}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.10.RageExpen-sV1", "Ex.10.RageExpen-sV1\Ex.10.RageExpen-sV1.csproj", "{6BBB8313-AD9B-42AA-8A3B-2E32EBE9F42B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{BC56B6DC-A85E-4AED-920E-79E9FA8DB868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC56B6DC-A85E-4AED-920E-79E9FA8DB868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC56B6DC-A85E-4AED-920E-79E9FA8DB868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBB8313-AD9B-42AA-8A3B-2E32EBE9F42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBB8313-AD9B-42AA-8A3B-2E32EBE9F42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBB8313-AD9B-42AA-8A3B-2E32EBE9F42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBB8313-AD9B-42AA-8A3B-2E32EBE9F42B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
