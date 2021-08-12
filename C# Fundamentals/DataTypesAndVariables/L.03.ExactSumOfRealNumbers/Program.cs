@@ -6,7 +6,14 @@ namespace L._03.ExactSumOfRealNumbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numOfRows = int.Parse(Console.ReadLine());
+            decimal sumOfNum = 0M;
+            for (int i = 0; i < numOfRows; i++)
+            {
+                decimal currentNum = decimal.Parse(Console.ReadLine());
+                sumOfNum += currentNum;
+            }
+            Console.WriteLine(sumOfNum);
         }
     }
 }
