@@ -6,7 +6,10 @@ namespace L._08.TownInfo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string nameOfTown = Console.ReadLine();
+            uint populationOfTown = uint.Parse(Console.ReadLine());
+            float areaOfTown = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Town {nameOfTown} has population of {populationOfTown} and area {areaOfTown} square km.");
         }
     }
 }
