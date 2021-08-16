@@ -6,7 +6,18 @@ namespace L._10.LowerOrUpper
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            char inputSymbol = char.Parse(Console.ReadLine());
+            int asciiNumberOfChar = inputSymbol;
+            string caseSensitive = string.Empty;
+            if (asciiNumberOfChar >= 96 && asciiNumberOfChar <= 127)
+            {
+                caseSensitive = "lower-case";
+            }
+            else
+            {
+                caseSensitive = "upper-case";
+            }
+            Console.WriteLine(caseSensitive);
         }
     }
 }
