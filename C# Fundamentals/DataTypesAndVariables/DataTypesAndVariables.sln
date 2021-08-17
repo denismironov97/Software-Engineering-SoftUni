@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.12.RefactorSpecialNumbers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.IntegerOperations", "Ex.01.IntegerOperations\Ex.01.IntegerOperations.csproj", "{E0B82595-99EE-4366-84E0-4BE932B8AD48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.SumDigits", "Ex.02.SumDigits\Ex.02.SumDigits.csproj", "{222EE4A2-0D2B-47E7-981E-187027A3DE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E0B82595-99EE-4366-84E0-4BE932B8AD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0B82595-99EE-4366-84E0-4BE932B8AD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0B82595-99EE-4366-84E0-4BE932B8AD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222EE4A2-0D2B-47E7-981E-187027A3DE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222EE4A2-0D2B-47E7-981E-187027A3DE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222EE4A2-0D2B-47E7-981E-187027A3DE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222EE4A2-0D2B-47E7-981E-187027A3DE64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
