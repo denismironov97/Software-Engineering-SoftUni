@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.ConcatNamesModV1", "L.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.08.TownInfo", "L.08.TownInfo\L.08.TownInfo.csproj", "{70F139CB-40A2-4B33-9F87-408C0D78A2D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.09.CharsToString", "L.09.CharsToString\L.09.CharsToString.csproj", "{1440583A-84AA-4236-8E4E-F8E548CD692B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.09.CharsToString", "L.09.CharsToString\L.09.CharsToString.csproj", "{1440583A-84AA-4236-8E4E-F8E548CD692B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.10.LowerOrUpper", "L.10.LowerOrUpper\L.10.LowerOrUpper.csproj", "{7BCAEB77-C034-47FB-8F2C-7A13AB91CF6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.10.LowerOrUpper", "L.10.LowerOrUpper\L.10.LowerOrUpper.csproj", "{7BCAEB77-C034-47FB-8F2C-7A13AB91CF6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.11.RefactorVolumeOfPyramid", "L.11.RefactorVolumeOfPyramid\L.11.RefactorVolumeOfPyramid.csproj", "{88960442-C9B8-41DA-9432-7D954FFEFA88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.11.RefactorVolumeOfPyramid", "L.11.RefactorVolumeOfPyramid\L.11.RefactorVolumeOfPyramid.csproj", "{88960442-C9B8-41DA-9432-7D954FFEFA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.12.RefactorSpecialNumbers", "L.12.RefactorSpecialNumbers\L.12.RefactorSpecialNumbers.csproj", "{40D672A6-7104-4379-908B-688B83C5BFD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{88960442-C9B8-41DA-9432-7D954FFEFA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88960442-C9B8-41DA-9432-7D954FFEFA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88960442-C9B8-41DA-9432-7D954FFEFA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D672A6-7104-4379-908B-688B83C5BFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D672A6-7104-4379-908B-688B83C5BFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D672A6-7104-4379-908B-688B83C5BFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D672A6-7104-4379-908B-688B83C5BFD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
