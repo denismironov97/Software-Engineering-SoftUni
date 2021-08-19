@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ElevatorModV1", "Ex.0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ElevatorModV2", "Ex.03.ElevatorModV2\Ex.03.ElevatorModV2.csproj", "{7006658E-5F3C-46E9-A785-870ADA7D7D1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.TriplesOfLatinLetters", "Ex.06.TriplesOfLatinLetters\Ex.06.TriplesOfLatinLetters.csproj", "{19E966FD-FD34-4587-8668-4B460E196DF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{7006658E-5F3C-46E9-A785-870ADA7D7D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7006658E-5F3C-46E9-A785-870ADA7D7D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7006658E-5F3C-46E9-A785-870ADA7D7D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E966FD-FD34-4587-8668-4B460E196DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E966FD-FD34-4587-8668-4B460E196DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E966FD-FD34-4587-8668-4B460E196DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E966FD-FD34-4587-8668-4B460E196DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
