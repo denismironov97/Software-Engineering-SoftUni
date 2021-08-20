@@ -6,7 +6,7 @@ namespace Ex._05.PrintPartOfASCIITable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
