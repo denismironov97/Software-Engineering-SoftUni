@@ -35,17 +35,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.IntegerOperations", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.SumDigits", "Ex.02.SumDigits\Ex.02.SumDigits.csproj", "{222EE4A2-0D2B-47E7-981E-187027A3DE64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.Elevator", "Ex.03.Elevator\Ex.03.Elevator.csproj", "{56915D1A-A4A7-4FAA-9720-76A08B6F2F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.Elevator", "Ex.03.Elevator\Ex.03.Elevator.csproj", "{56915D1A-A4A7-4FAA-9720-76A08B6F2F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.SumOfChars", "Ex.04.SumOfChars\Ex.04.SumOfChars.csproj", "{55DB6878-7B96-4064-9D96-12BD15EC8E64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.SumOfChars", "Ex.04.SumOfChars\Ex.04.SumOfChars.csproj", "{55DB6878-7B96-4064-9D96-12BD15EC8E64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.PrintPartOfASCIITable", "Ex.05.PrintPartOfASCIITable\Ex.05.PrintPartOfASCIITable.csproj", "{D5C830D4-D0DA-43D4-B387-0B3ABD56A715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.PrintPartOfASCIITable", "Ex.05.PrintPartOfASCIITable\Ex.05.PrintPartOfASCIITable.csproj", "{D5C830D4-D0DA-43D4-B387-0B3ABD56A715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ElevatorModV1", "Ex.03.ElevatorModV1\Ex.03.ElevatorModV1.csproj", "{2BF57C1E-76ED-4234-9B49-7B34161C2E96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ElevatorModV1", "Ex.03.ElevatorModV1\Ex.03.ElevatorModV1.csproj", "{2BF57C1E-76ED-4234-9B49-7B34161C2E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ElevatorModV2", "Ex.03.ElevatorModV2\Ex.03.ElevatorModV2.csproj", "{7006658E-5F3C-46E9-A785-870ADA7D7D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ElevatorModV2", "Ex.03.ElevatorModV2\Ex.03.ElevatorModV2.csproj", "{7006658E-5F3C-46E9-A785-870ADA7D7D1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.TriplesOfLatinLetters", "Ex.06.TriplesOfLatinLetters\Ex.06.TriplesOfLatinLetters.csproj", "{19E966FD-FD34-4587-8668-4B460E196DF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.06.TriplesOfLatinLetters", "Ex.06.TriplesOfLatinLetters\Ex.06.TriplesOfLatinLetters.csproj", "{19E966FD-FD34-4587-8668-4B460E196DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.TriplesOfLatinLettersModV1", "Ex.06.TriplesOfLatinLettersModV1\Ex.06.TriplesOfLatinLettersModV1.csproj", "{AD252555-8DF4-4D4D-AC4C-EAC688A18C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.TriplesOfLatinLettersModV2", "Ex.06.TriplesOfLatinLettersModV2\Ex.06.TriplesOfLatinLettersModV2.csproj", "{BE65301F-3BD7-4BB6-A01F-9879A8B2BA3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{19E966FD-FD34-4587-8668-4B460E196DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E966FD-FD34-4587-8668-4B460E196DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E966FD-FD34-4587-8668-4B460E196DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD252555-8DF4-4D4D-AC4C-EAC688A18C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD252555-8DF4-4D4D-AC4C-EAC688A18C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD252555-8DF4-4D4D-AC4C-EAC688A18C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD252555-8DF4-4D4D-AC4C-EAC688A18C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE65301F-3BD7-4BB6-A01F-9879A8B2BA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE65301F-3BD7-4BB6-A01F-9879A8B2BA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE65301F-3BD7-4BB6-A01F-9879A8B2BA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE65301F-3BD7-4BB6-A01F-9879A8B2BA3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
