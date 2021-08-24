@@ -6,7 +6,17 @@ namespace L._02.PrintNumbersInReverse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n = int.Parse(Console.ReadLine());
+            int[] numArray = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                numArray[i] = int.Parse(Console.ReadLine());
+            }
+
+            for (int i = numArray.Length - 1; i >= 0; i--)
+            {
+                Console.Write("{0} ", numArray[i]);
+            }
         }
     }
 }
