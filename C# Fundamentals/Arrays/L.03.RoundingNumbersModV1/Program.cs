@@ -1,12 +1,23 @@
 ﻿using System;
-
+using System.Linq;
 namespace L._03.RoundingNumbersModV1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double[] numbers = Console.ReadLine()
+                .Split()
+                .Select(double.Parse)
+                .ToArray();
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                double number = numbers[i];
+                double roudedNumber = Math.Round(number, MidpointRounding.AwayFromZero);
+
+                Console.WriteLine($"{Convert.ToDecimal(number)} => {Convert.ToDecimal(roudedNumber)}");
+            }
         }
     }
 }
