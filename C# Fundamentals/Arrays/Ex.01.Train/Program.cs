@@ -6,7 +6,23 @@ namespace Ex._01.Train
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int lenghtOfWagon = int.Parse(Console.ReadLine());
+            int[] wagons = new int[lenghtOfWagon];
+            int sum = 0;
+
+            for (int i = 0; i < lenghtOfWagon; i++)
+            {
+                wagons[i] = int.Parse(Console.ReadLine());
+                sum += wagons[i];
+            }
+
+            foreach (int item in wagons)
+            {
+                Console.Write($"{item} ");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine(sum);
         }
     }
 }
