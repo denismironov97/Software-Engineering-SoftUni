@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.06.EvenAndOddSubtraction"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.04.ReverseArrayOfStringsV1", "L.04.ReverseArrayOfStringsV1\L.04.ReverseArrayOfStringsV1.csproj", "{1A84A80D-C252-4A61-8768-68EDA4A532DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.EqualArrays", "L.07.EqualArrays\L.07.EqualArrays.csproj", "{87B003A6-C8CA-463B-9FBB-CBF8BFCAD616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.EqualArrays", "L.07.EqualArrays\L.07.EqualArrays.csproj", "{87B003A6-C8CA-463B-9FBB-CBF8BFCAD616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.CondenseArrayToNumber", "L.08.CondenseArrayToNumber\L.08.CondenseArrayToNumber.csproj", "{E10ADB59-C0A0-48A5-822C-48B0A9FE1397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.08.CondenseArrayToNumber", "L.08.CondenseArrayToNumber\L.08.CondenseArrayToNumber.csproj", "{E10ADB59-C0A0-48A5-822C-48B0A9FE1397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.Train", "Ex.01.Train\Ex.01.Train.csproj", "{FF3767D8-5D3E-432C-BC39-0ABDE003A5E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.Train", "Ex.01.Train\Ex.01.Train.csproj", "{FF3767D8-5D3E-432C-BC39-0ABDE003A5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.CommonElements", "Ex.02.CommonElements\Ex.02.CommonElements.csproj", "{D3FE557A-12BD-4876-9169-039300E7C5B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{FF3767D8-5D3E-432C-BC39-0ABDE003A5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF3767D8-5D3E-432C-BC39-0ABDE003A5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF3767D8-5D3E-432C-BC39-0ABDE003A5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FE557A-12BD-4876-9169-039300E7C5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FE557A-12BD-4876-9169-039300E7C5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FE557A-12BD-4876-9169-039300E7C5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FE557A-12BD-4876-9169-039300E7C5B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
