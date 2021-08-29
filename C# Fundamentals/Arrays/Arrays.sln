@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.08.CondenseArrayToNumber"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.Train", "Ex.01.Train\Ex.01.Train.csproj", "{FF3767D8-5D3E-432C-BC39-0ABDE003A5E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.CommonElements", "Ex.02.CommonElements\Ex.02.CommonElements.csproj", "{D3FE557A-12BD-4876-9169-039300E7C5B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.CommonElements", "Ex.02.CommonElements\Ex.02.CommonElements.csproj", "{D3FE557A-12BD-4876-9169-039300E7C5B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ZigZagArrays", "Ex.03.ZigZagArrays\Ex.03.ZigZagArrays.csproj", "{7CA5526D-7E39-4167-A3A1-81FED80F9213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ZigZagArrays", "Ex.03.ZigZagArrays\Ex.03.ZigZagArrays.csproj", "{7CA5526D-7E39-4167-A3A1-81FED80F9213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ZigZagArraysModV1", "Ex.03.ZigZagArraysModV1\Ex.03.ZigZagArraysModV1.csproj", "{84D90CE7-6CC2-482E-8DA3-DB04AA529B84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ZigZagArraysModV1", "Ex.03.ZigZagArraysModV1\Ex.03.ZigZagArraysModV1.csproj", "{84D90CE7-6CC2-482E-8DA3-DB04AA529B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.ArrayRotation", "Ex.04.ArrayRotation\Ex.04.ArrayRotation.csproj", "{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{84D90CE7-6CC2-482E-8DA3-DB04AA529B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84D90CE7-6CC2-482E-8DA3-DB04AA529B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84D90CE7-6CC2-482E-8DA3-DB04AA529B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
