@@ -31,13 +31,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ZigZagArrays", "Ex.03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ZigZagArraysModV1", "Ex.03.ZigZagArraysModV1\Ex.03.ZigZagArraysModV1.csproj", "{84D90CE7-6CC2-482E-8DA3-DB04AA529B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.ArrayRotation", "Ex.04.ArrayRotation\Ex.04.ArrayRotation.csproj", "{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.ArrayRotation", "Ex.04.ArrayRotation\Ex.04.ArrayRotation.csproj", "{C10BDCFC-A451-42CF-9D2F-6E6363FB04FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.ArrayRotationModV1", "Ex.04.ArrayRotationModV1\Ex.04.ArrayRotationModV1.csproj", "{19DD816D-4EC3-44D9-8655-FCB6BC8EA305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.ArrayRotationModV1", "Ex.04.ArrayRotationModV1\Ex.04.ArrayRotationModV1.csproj", "{19DD816D-4EC3-44D9-8655-FCB6BC8EA305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.TopIntegers", "Ex.05.TopIntegers\Ex.05.TopIntegers.csproj", "{1432E269-626B-4152-864E-BC8A8438662F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.TopIntegers", "Ex.05.TopIntegers\Ex.05.TopIntegers.csproj", "{1432E269-626B-4152-864E-BC8A8438662F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.TopIntegersModV1", "Ex.05.TopIntegersModV1\Ex.05.TopIntegersModV1.csproj", "{459B8C33-8D93-43CA-9B64-23C2C54DD7FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.TopIntegersModV1", "Ex.05.TopIntegersModV1\Ex.05.TopIntegersModV1.csproj", "{459B8C33-8D93-43CA-9B64-23C2C54DD7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.EqualSum", "Ex.06.EqualSum\Ex.06.EqualSum.csproj", "{7B5B6664-97B4-4B34-A04A-5B9E769E1C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.07.MaxSequenceOfEqualElements", "Ex.07.MaxSequenceOfEqualElements\Ex.07.MaxSequenceOfEqualElements.csproj", "{128DFCAD-AD6E-4A17-A979-6AA9FAC97AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.08.MagicSum", "Ex.08.MagicSum\Ex.08.MagicSum.csproj", "{28CD52B7-D44B-431A-BBB0-A5CED9C256B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +123,18 @@ Global
 		{459B8C33-8D93-43CA-9B64-23C2C54DD7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{459B8C33-8D93-43CA-9B64-23C2C54DD7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{459B8C33-8D93-43CA-9B64-23C2C54DD7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5B6664-97B4-4B34-A04A-5B9E769E1C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5B6664-97B4-4B34-A04A-5B9E769E1C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5B6664-97B4-4B34-A04A-5B9E769E1C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5B6664-97B4-4B34-A04A-5B9E769E1C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128DFCAD-AD6E-4A17-A979-6AA9FAC97AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128DFCAD-AD6E-4A17-A979-6AA9FAC97AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128DFCAD-AD6E-4A17-A979-6AA9FAC97AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128DFCAD-AD6E-4A17-A979-6AA9FAC97AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CD52B7-D44B-431A-BBB0-A5CED9C256B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CD52B7-D44B-431A-BBB0-A5CED9C256B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CD52B7-D44B-431A-BBB0-A5CED9C256B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CD52B7-D44B-431A-BBB0-A5CED9C256B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
