@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace L._03.Calculations
+namespace L._02.GradesModV1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
-        
     }
 }
