@@ -6,7 +6,14 @@ namespace Lab._06.CalculateRectangleAreaModV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double widthOfRactangle = double.Parse(Console.ReadLine());
+            double lenghtOfRectangle = double.Parse(Console.ReadLine());
+            Console.WriteLine(AreaOfRecktangle(widthOfRactangle, lenghtOfRectangle));
+        }
+        static double AreaOfRecktangle(double widthOfRactangle, double lenghtOfRectangle)
+        {
+            double areaOfRectangle = widthOfRactangle * lenghtOfRectangle;
+            return areaOfRectangle;
         }
     }
 }
