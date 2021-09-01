@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.RepeatString", "L.07.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.RepeatStringModV1", "L.07.RepeatStringModV1\L.07.RepeatStringModV1.csproj", "{E2D00F00-2F0D-4C34-95D7-BD8315A456DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.RepeatStringModV2", "L.07.RepeatStringModV2\L.07.RepeatStringModV2.csproj", "{4177C5E5-E5C3-4038-8772-160B97BD4E05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E2D00F00-2F0D-4C34-95D7-BD8315A456DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2D00F00-2F0D-4C34-95D7-BD8315A456DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2D00F00-2F0D-4C34-95D7-BD8315A456DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
