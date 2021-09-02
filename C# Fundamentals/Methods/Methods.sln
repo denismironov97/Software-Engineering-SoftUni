@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.MathPower", "L.08.Math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.MathPowerModV1", "L.08.MathPowerModV1\L.08.MathPowerModV1.csproj", "{38863B35-9C7A-4245-8A28-D38EAF0378C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.09.GreaterOfTwoValues", "L.09.GreaterOfTwoValues\L.09.GreaterOfTwoValues.csproj", "{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
