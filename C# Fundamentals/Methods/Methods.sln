@@ -11,21 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.03.Calculations", "L.03.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.GradesModV1", "L.02.GradesModV1\L.02.GradesModV1.csproj", "{D06FE995-17F0-4444-A1A9-55D94F953C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.04.PrintingTriangle", "L.04.PrintingTriangle\L.04.PrintingTriangle.csproj", "{88495DBE-CC31-40A6-96D8-DE1385DA6AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.04.PrintingTriangle", "L.04.PrintingTriangle\L.04.PrintingTriangle.csproj", "{88495DBE-CC31-40A6-96D8-DE1385DA6AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.04.PrintingTriangleModV1", "L.04.PrintingTriangleModV1\L.04.PrintingTriangleModV1.csproj", "{ECED9231-5E82-48F8-950F-9F458E05F834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.04.PrintingTriangleModV1", "L.04.PrintingTriangleModV1\L.04.PrintingTriangleModV1.csproj", "{ECED9231-5E82-48F8-950F-9F458E05F834}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.Orders", "Lab.05.Orders\Lab.05.Orders.csproj", "{747C1148-9170-41C0-B536-4723D53FCFAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.Orders", "Lab.05.Orders\Lab.05.Orders.csproj", "{747C1148-9170-41C0-B536-4723D53FCFAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.CalculateRectangleArea", "Lab.06.CalculateRectangleArea\Lab.06.CalculateRectangleArea.csproj", "{1CEFA395-C73B-49BF-A6B7-8588AA048917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.CalculateRectangleArea", "Lab.06.CalculateRectangleArea\Lab.06.CalculateRectangleArea.csproj", "{1CEFA395-C73B-49BF-A6B7-8588AA048917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.CalculateRectangleAreaModV1", "Lab.06.CalculateRectangleAreaModV1\Lab.06.CalculateRectangleAreaModV1.csproj", "{075AC7B5-088E-4CD5-9A0D-2675DEE7FAD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.CalculateRectangleAreaModV1", "Lab.06.CalculateRectangleAreaModV1\Lab.06.CalculateRectangleAreaModV1.csproj", "{075AC7B5-088E-4CD5-9A0D-2675DEE7FAD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.RepeatString", "L.07.RepeatString\L.07.RepeatString.csproj", "{F1CCB237-0C90-4229-BCC7-9F26AA0C1D41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.RepeatString", "L.07.RepeatString\L.07.RepeatString.csproj", "{F1CCB237-0C90-4229-BCC7-9F26AA0C1D41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.RepeatStringModV1", "L.07.RepeatStringModV1\L.07.RepeatStringModV1.csproj", "{E2D00F00-2F0D-4C34-95D7-BD8315A456DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.RepeatStringModV1", "L.07.RepeatStringModV1\L.07.RepeatStringModV1.csproj", "{E2D00F00-2F0D-4C34-95D7-BD8315A456DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.07.RepeatStringModV2", "L.07.RepeatStringModV2\L.07.RepeatStringModV2.csproj", "{4177C5E5-E5C3-4038-8772-160B97BD4E05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.RepeatStringModV2", "L.07.RepeatStringModV2\L.07.RepeatStringModV2.csproj", "{4177C5E5-E5C3-4038-8772-160B97BD4E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.MathPower", "L.08.MathPower\L.08.MathPower.csproj", "{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.MathPowerModV1", "L.08.MathPowerModV1\L.08.MathPowerModV1.csproj", "{38863B35-9C7A-4245-8A28-D38EAF0378C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4177C5E5-E5C3-4038-8772-160B97BD4E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38863B35-9C7A-4245-8A28-D38EAF0378C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
