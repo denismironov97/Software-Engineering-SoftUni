@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.RepeatStringModV1", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.RepeatStringModV2", "L.07.RepeatStringModV2\L.07.RepeatStringModV2.csproj", "{4177C5E5-E5C3-4038-8772-160B97BD4E05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.MathPower", "L.08.MathPower\L.08.MathPower.csproj", "{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.08.MathPower", "L.08.MathPower\L.08.MathPower.csproj", "{FDCFF095-A92A-4ED4-87CB-5700BB634E2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.08.MathPowerModV1", "L.08.MathPowerModV1\L.08.MathPowerModV1.csproj", "{38863B35-9C7A-4245-8A28-D38EAF0378C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.08.MathPowerModV1", "L.08.MathPowerModV1\L.08.MathPowerModV1.csproj", "{38863B35-9C7A-4245-8A28-D38EAF0378C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.09.GreaterOfTwoValues", "L.09.GreaterOfTwoValues\L.09.GreaterOfTwoValues.csproj", "{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.09.GreaterOfTwoValues", "L.09.GreaterOfTwoValues\L.09.GreaterOfTwoValues.csproj", "{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.10.MultiplyEvensByOdds", "L.10.MultiplyEvensByOdds\L.10.MultiplyEvensByOdds.csproj", "{93673F35-AA66-462F-9D88-4E03FF477EEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0FFEFD3-116D-4326-B7F4-C463BB8DACF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93673F35-AA66-462F-9D88-4E03FF477EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93673F35-AA66-462F-9D88-4E03FF477EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93673F35-AA66-462F-9D88-4E03FF477EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93673F35-AA66-462F-9D88-4E03FF477EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
