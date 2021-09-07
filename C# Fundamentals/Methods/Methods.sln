@@ -39,11 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.11.MathOperations", "L.11
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.SmallestOfThreeNumbers", "Ex.01.SmallestOfThreeNumbers\Ex.01.SmallestOfThreeNumbers.csproj", "{8A584D41-0753-4AF1-804B-AC0860160523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.VowelsCount", "Ex.02.VowelsCount\Ex.02.VowelsCount.csproj", "{D1D1BDAC-DCB7-416A-BA33-749A29050A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.VowelsCount", "Ex.02.VowelsCount\Ex.02.VowelsCount.csproj", "{D1D1BDAC-DCB7-416A-BA33-749A29050A00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.VowelsCountModV1", "Ex.02.VowelsCountModV1\Ex.02.VowelsCountModV1.csproj", "{18D15647-0DC9-418B-9EF7-6DF23004B757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.VowelsCountModV1", "Ex.02.VowelsCountModV1\Ex.02.VowelsCountModV1.csproj", "{18D15647-0DC9-418B-9EF7-6DF23004B757}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.CharactersInRange", "Ex.03.CharactersInRange\Ex.03.CharactersInRange.csproj", "{C30D7B23-8E40-471F-A337-E192D99D2F1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.CharactersInRange", "Ex.03.CharactersInRange\Ex.03.CharactersInRange.csproj", "{C30D7B23-8E40-471F-A337-E192D99D2F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.PasswordValidator", "Ex.04.PasswordValidator\Ex.04.PasswordValidator.csproj", "{20439999-392A-4395-9072-6A1DCC912F43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{C30D7B23-8E40-471F-A337-E192D99D2F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C30D7B23-8E40-471F-A337-E192D99D2F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C30D7B23-8E40-471F-A337-E192D99D2F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20439999-392A-4395-9072-6A1DCC912F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20439999-392A-4395-9072-6A1DCC912F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20439999-392A-4395-9072-6A1DCC912F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20439999-392A-4395-9072-6A1DCC912F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
