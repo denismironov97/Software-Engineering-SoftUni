@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.PasswordValidator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.PasswordValidatorModV1", "Ex.04.PasswordValidatorModV1\Ex.04.PasswordValidatorModV1.csproj", "{364B0D27-D553-4E8C-8C8C-0972D752DBBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.AddAndSubtract", "Ex.05.AddAndSubtract\Ex.05.AddAndSubtract.csproj", "{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{364B0D27-D553-4E8C-8C8C-0972D752DBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{364B0D27-D553-4E8C-8C8C-0972D752DBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{364B0D27-D553-4E8C-8C8C-0972D752DBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
