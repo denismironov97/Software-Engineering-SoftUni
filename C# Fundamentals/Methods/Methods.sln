@@ -47,11 +47,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.CharactersInRange", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.PasswordValidator", "Ex.04.PasswordValidator\Ex.04.PasswordValidator.csproj", "{20439999-392A-4395-9072-6A1DCC912F43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.PasswordValidatorModV1", "Ex.04.PasswordValidatorModV1\Ex.04.PasswordValidatorModV1.csproj", "{364B0D27-D553-4E8C-8C8C-0972D752DBBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.PasswordValidatorModV1", "Ex.04.PasswordValidatorModV1\Ex.04.PasswordValidatorModV1.csproj", "{364B0D27-D553-4E8C-8C8C-0972D752DBBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.AddAndSubtract", "Ex.05.AddAndSubtract\Ex.05.AddAndSubtract.csproj", "{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.AddAndSubtract", "Ex.05.AddAndSubtract\Ex.05.AddAndSubtract.csproj", "{4B53206E-4B0F-4838-9DAE-679F2E9D54E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.06.MiddleCharacters", "Ex.06.MiddleCharacters\Ex.06.MiddleCharacters.csproj", "{BC5F0A3A-165B-4CD9-BF8F-E52E554C7D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.06.MiddleCharacters", "Ex.06.MiddleCharacters\Ex.06.MiddleCharacters.csproj", "{BC5F0A3A-165B-4CD9-BF8F-E52E554C7D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.07.NxNMatrix", "Ex.07.NxNMatrix\Ex.07.NxNMatrix.csproj", "{6F0814C5-6DB8-40CA-8C88-10BC2C038CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.08.FactorialDivision", "Ex.08.FactorialDivision\Ex.08.FactorialDivision.csproj", "{E893B554-4B03-415C-9259-CF42D229B4F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.08.FactorialDivisionModV1", "Ex.08.FactorialDivisionModV1\Ex.08.FactorialDivisionModV1.csproj", "{327FDA52-40CE-4F53-B761-31E7C21167A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +165,18 @@ Global
 		{BC5F0A3A-165B-4CD9-BF8F-E52E554C7D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5F0A3A-165B-4CD9-BF8F-E52E554C7D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5F0A3A-165B-4CD9-BF8F-E52E554C7D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0814C5-6DB8-40CA-8C88-10BC2C038CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0814C5-6DB8-40CA-8C88-10BC2C038CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0814C5-6DB8-40CA-8C88-10BC2C038CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0814C5-6DB8-40CA-8C88-10BC2C038CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E893B554-4B03-415C-9259-CF42D229B4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E893B554-4B03-415C-9259-CF42D229B4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E893B554-4B03-415C-9259-CF42D229B4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E893B554-4B03-415C-9259-CF42D229B4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327FDA52-40CE-4F53-B761-31E7C21167A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327FDA52-40CE-4F53-B761-31E7C21167A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327FDA52-40CE-4F53-B761-31E7C21167A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327FDA52-40CE-4F53-B761-31E7C21167A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
