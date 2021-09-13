@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.01.SumAdjacentEqualNumbers", "L.01.SumAdjacentEqualNumbers\L.01.SumAdjacentEqualNumbers.csproj", "{A2BF1BDF-1DC6-4E8B-B255-AAF07F6166AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.GaussTrick", "Lab.02.GaussTrick\Lab.02.GaussTrick.csproj", "{538F8D31-1301-40D8-B31B-6F9FBFD39F72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.GaussTrickModV1", "Lab.02.GaussTrickModV1\Lab.02.GaussTrickModV1.csproj", "{2B1EFE12-E1CE-4494-BAFD-3BD787934401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A2BF1BDF-1DC6-4E8B-B255-AAF07F6166AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2BF1BDF-1DC6-4E8B-B255-AAF07F6166AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2BF1BDF-1DC6-4E8B-B255-AAF07F6166AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538F8D31-1301-40D8-B31B-6F9FBFD39F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538F8D31-1301-40D8-B31B-6F9FBFD39F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538F8D31-1301-40D8-B31B-6F9FBFD39F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538F8D31-1301-40D8-B31B-6F9FBFD39F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1EFE12-E1CE-4494-BAFD-3BD787934401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1EFE12-E1CE-4494-BAFD-3BD787934401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1EFE12-E1CE-4494-BAFD-3BD787934401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1EFE12-E1CE-4494-BAFD-3BD787934401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
