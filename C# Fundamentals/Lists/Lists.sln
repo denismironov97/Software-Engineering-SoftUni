@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.01.SumAdjacentEqualNumbers", "L.01.SumAdjacentEqualNumbers\L.01.SumAdjacentEqualNumbers.csproj", "{A2BF1BDF-1DC6-4E8B-B255-AAF07F6166AA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.GaussTrick", "Lab.02.GaussTrick\Lab.02.GaussTrick.csproj", "{538F8D31-1301-40D8-B31B-6F9FBFD39F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.GaussTrick", "Lab.02.GaussTrick\L.02.GaussTrick.csproj", "{538F8D31-1301-40D8-B31B-6F9FBFD39F72}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.GaussTrickModV1", "Lab.02.GaussTrickModV1\Lab.02.GaussTrickModV1.csproj", "{2B1EFE12-E1CE-4494-BAFD-3BD787934401}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.GaussTrickModV1", "Lab.02.GaussTrickModV1\L.02.GaussTrickModV1.csproj", "{2B1EFE12-E1CE-4494-BAFD-3BD787934401}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.03.MergingLists", "L.03.MergingLists\L.03.MergingLists.csproj", "{AB9280AC-19C7-42ED-9B97-1D6B1E767C26}"
 EndProject
