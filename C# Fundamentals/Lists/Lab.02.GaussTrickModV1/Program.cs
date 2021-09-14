@@ -13,6 +13,7 @@ namespace Lab._02.GaussTrickModV1
                 .Select(int.Parse)
                 .ToList();
             List<int> result = GetGausResult(numbersList);
+
             foreach (int num in result)
             {
                 Console.Write(num + " ");
