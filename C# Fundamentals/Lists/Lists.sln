@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.ListManipulationAdvanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.Train", "Ex.01.Train\Ex.01.Train.csproj", "{4579C0D5-B9D4-40B1-892A-7BEF967A4BE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.ChangeList", "Ex.02.ChangeList\Ex.02.ChangeList.csproj", "{74506E91-859D-431C-B639-32678E25704B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4579C0D5-B9D4-40B1-892A-7BEF967A4BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4579C0D5-B9D4-40B1-892A-7BEF967A4BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4579C0D5-B9D4-40B1-892A-7BEF967A4BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74506E91-859D-431C-B639-32678E25704B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74506E91-859D-431C-B639-32678E25704B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74506E91-859D-431C-B639-32678E25704B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74506E91-859D-431C-B639-32678E25704B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
