@@ -9,7 +9,7 @@ namespace Ex._03.DepositCalculator
             double depositSum = double.Parse(Console.ReadLine());
             int durrationOfDeposit = int.Parse(Console.ReadLine()); // durration in months 
             double yearlyInterestRate = double.Parse(Console.ReadLine()); // divided by 100 
-            double endSum = depositSum + durrationOfDeposit * ((depositSum * (yearlyInterestRate / 100)) / 12); // look the logic behing it 
+            double endSum = depositSum + durrationOfDeposit * ((depositSum * (yearlyInterestRate / 100)) / 12);
             Console.WriteLine(endSum);
         }
     }

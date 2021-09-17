@@ -11,7 +11,7 @@ namespace Ex._04.VacationBooksList
             int numOfDaysToReadBook = int.Parse(Console.ReadLine());
             double totalTime = numOfPagesInWholeBook / numOfPagesOnehour;
             double hoursPerDay = totalTime / numOfDaysToReadBook;
-            Console.WriteLine(hoursPerDay);
+            Console.WriteLine(Math.Floor(hoursPerDay));
         }
     }
 }
