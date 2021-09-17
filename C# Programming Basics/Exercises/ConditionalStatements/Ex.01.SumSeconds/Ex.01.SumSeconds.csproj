@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Lab._01.SumSeconds</RootNamespace>
+    <RootNamespace>Ex._01.SumSeconds</RootNamespace>
   </PropertyGroup>
 
 </Project>
