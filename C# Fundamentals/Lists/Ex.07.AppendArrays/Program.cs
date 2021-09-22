@@ -19,15 +19,20 @@ namespace Ex._07.AppendArrays
             //    .ToList();
 
             List<string> input = Console.ReadLine().Split('|').ToList();
-            for (int i = 0; i < input.Count / 2; i++) // reversing places array algorithm // important
+
+            //Revesing a one dimantional collcetion array/list
+            for (int i = 0; i < input.Count / 2; i++) //reversing places array algorithm //important
             {
                 var oldElement = input[i];
                 input[i] = input[input.Count - 1 - i];
                 input[input.Count - 1 - i] = oldElement;
             }
-            // or input.Reverse;
+
+            // Way II 
+            //input.Reverse();
+
             List<int> numbers = new List<int>();
-            foreach (string str in input) //important
+            foreach (string str in input)
             {
                 numbers.AddRange(str.Split(" ", StringSplitOptions.RemoveEmptyEntries)
                                     .Select(int.Parse)
