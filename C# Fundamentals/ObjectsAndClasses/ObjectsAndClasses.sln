@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.07.VehicleCatalogue", "L.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.AdvertisementMessage", "Ex.01.AdvertisementMessage\Ex.01.AdvertisementMessage.csproj", "{A8AB0860-A014-44E3-B723-705394CEDDF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.Articles", "Ex.02.Articles\Ex.02.Articles.csproj", "{7F5A2248-4C6B-43E7-911B-D30D0F252ED2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.Articles", "Ex.02.Articles\Ex.02.Articles.csproj", "{7F5A2248-4C6B-43E7-911B-D30D0F252ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.Articles2.0", "Ex.03.Articles2.0\Ex.03.Articles2.0.csproj", "{C8BCCCAC-7ED0-4EBD-90FF-BD3D2830DB5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{7F5A2248-4C6B-43E7-911B-D30D0F252ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F5A2248-4C6B-43E7-911B-D30D0F252ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F5A2248-4C6B-43E7-911B-D30D0F252ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BCCCAC-7ED0-4EBD-90FF-BD3D2830DB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BCCCAC-7ED0-4EBD-90FF-BD3D2830DB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BCCCAC-7ED0-4EBD-90FF-BD3D2830DB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BCCCAC-7ED0-4EBD-90FF-BD3D2830DB5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
