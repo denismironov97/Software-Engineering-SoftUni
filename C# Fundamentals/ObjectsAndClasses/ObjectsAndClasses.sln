@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.TeamworkProjects", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.TeamworkProjectsModV1", "Ex.05.TeamworkProjectsModV1\Ex.05.TeamworkProjectsModV1.csproj", "{53BA9C9E-7FBF-48EC-9192-2C19A721211C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.TeamworkProjectsModV2", "Ex.05.TeamworkProjectsModV2\Ex.05.TeamworkProjectsModV2.csproj", "{30D224FC-0601-4A0F-95B7-D69A64AC4A8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.TeamworkProjectsModV2", "Ex.05.TeamworkProjectsModV2\Ex.05.TeamworkProjectsModV2.csproj", "{30D224FC-0601-4A0F-95B7-D69A64AC4A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.TeamworkProjectsModV3", "Ex.05.TeamworkProjectsModV3\Ex.05.TeamworkProjectsModV3.csproj", "{D5C9EDD6-7D6D-45DC-9AD3-2F51B7A9F469}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{30D224FC-0601-4A0F-95B7-D69A64AC4A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D224FC-0601-4A0F-95B7-D69A64AC4A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D224FC-0601-4A0F-95B7-D69A64AC4A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C9EDD6-7D6D-45DC-9AD3-2F51B7A9F469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C9EDD6-7D6D-45DC-9AD3-2F51B7A9F469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C9EDD6-7D6D-45DC-9AD3-2F51B7A9F469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C9EDD6-7D6D-45DC-9AD3-2F51B7A9F469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
