@@ -13,6 +13,7 @@ namespace L._01.CountRealNumbers
 
             foreach (int num in numbers)
             {
+                //ver01
                 //if (counts.ContainsKey(num))
                 //{
                 //    counts[num]++;
@@ -21,7 +22,8 @@ namespace L._01.CountRealNumbers
                 //{
                 //    counts.Add(num, 1);
                 //}
-
+                
+                //ver02
                 if (!dictCountsOfOccurrences.ContainsKey(num))
                 {
                     dictCountsOfOccurrences.Add(num, 1);
