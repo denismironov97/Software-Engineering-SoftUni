@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.01.CountRealNumbersV1", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.01.CountRealNumbersV2", "L.01.CountRealNumbersV2\L.01.CountRealNumbersV2.csproj", "{8ECF8788-3308-443C-BFF1-B7D463A525B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.02.OddOccurrences", "L.02.OddOccurrences\L.02.OddOccurrences.csproj", "{4209FBE6-373F-4AB5-8689-59DFCE9B6CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.OddOccurrences", "L.02.OddOccurrences\L.02.OddOccurrences.csproj", "{4209FBE6-373F-4AB5-8689-59DFCE9B6CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.03.WordSynonyms", "L.03.WordSynonyms\L.03.WordSynonyms.csproj", "{61A02C08-66DF-4002-85A5-1E35ADA4278C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4209FBE6-373F-4AB5-8689-59DFCE9B6CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4209FBE6-373F-4AB5-8689-59DFCE9B6CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4209FBE6-373F-4AB5-8689-59DFCE9B6CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
