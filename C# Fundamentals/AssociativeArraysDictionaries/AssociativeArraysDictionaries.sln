@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.01.CountRealNumbersV2", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.OddOccurrences", "L.02.OddOccurrences\L.02.OddOccurrences.csproj", "{4209FBE6-373F-4AB5-8689-59DFCE9B6CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.03.WordSynonyms", "L.03.WordSynonyms\L.03.WordSynonyms.csproj", "{61A02C08-66DF-4002-85A5-1E35ADA4278C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.03.WordSynonyms", "L.03.WordSynonyms\L.03.WordSynonyms.csproj", "{61A02C08-66DF-4002-85A5-1E35ADA4278C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.04.Largest3Numbers", "L.04.Largest3Numbers\L.04.Largest3Numbers.csproj", "{02D71C3D-A1BE-439C-89B8-E319023446F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61A02C08-66DF-4002-85A5-1E35ADA4278C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D71C3D-A1BE-439C-89B8-E319023446F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D71C3D-A1BE-439C-89B8-E319023446F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D71C3D-A1BE-439C-89B8-E319023446F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D71C3D-A1BE-439C-89B8-E319023446F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
