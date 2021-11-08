@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Ex._01.C_tCharsInAString
 {
@@ -6,7 +7,30 @@ namespace Ex._01.C_tCharsInAString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input = Console.ReadLine();
+            Dictionary<char, int> countOfChars = new Dictionary<char, int>();
+
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (input[i] == ' ')
+                {
+                    continue;
+                }
+
+                if (!countOfChars.ContainsKey(input[i]))
+                {
+                    countOfChars.Add(input[i], 1);
+                }
+                else
+                {
+                    countOfChars[input[i]]++;
+                }
+            }
+
+            foreach (var keyValuePair in countOfChars)
+            {
+                Console.WriteLine($"{keyValuePair.Key} -> {keyValuePair.Value}");
+            }
         }
     }
 }
