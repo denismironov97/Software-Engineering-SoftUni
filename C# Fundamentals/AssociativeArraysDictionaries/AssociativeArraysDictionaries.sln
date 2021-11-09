@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.04.Largest3NumbersV1", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.05.WordFilter", "L.05.WordFilter\L.05.WordFilter.csproj", "{223BA740-7189-429D-ABB6-5B85A2F49DB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.C-tCharsInAString", "Ex.01.C-tCharsInAString\Ex.01.C-tCharsInAString.csproj", "{ABE5E6DB-0A4F-4973-9139-F9ECC3D7257D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.C-tCharsInAString", "Ex.01.C-tCharsInAString\Ex.01.C-tCharsInAString.csproj", "{ABE5E6DB-0A4F-4973-9139-F9ECC3D7257D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.C-tChrInAStrngV01", "Ex.01.C-tChrInAStrngV01\Ex.01.C-tChrInAStrngV01.csproj", "{0AB179E8-BA4B-4FC3-A776-E963C4D88688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{ABE5E6DB-0A4F-4973-9139-F9ECC3D7257D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE5E6DB-0A4F-4973-9139-F9ECC3D7257D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE5E6DB-0A4F-4973-9139-F9ECC3D7257D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB179E8-BA4B-4FC3-A776-E963C4D88688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB179E8-BA4B-4FC3-A776-E963C4D88688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB179E8-BA4B-4FC3-A776-E963C4D88688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB179E8-BA4B-4FC3-A776-E963C4D88688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
