@@ -22,12 +22,12 @@ namespace Ex._09.ForceBook
                 if (cmdSplitByLine.Length == 2)
                 {
                     splitByLine = true;
-                } 
+                }
                 else if (cmdSplitByArrow.Length == 2)
                 {
                     splitByArrow = true;
                 }
-                
+
                 //first type of command splited by " | "
                 if (splitByLine)
                 {
@@ -38,7 +38,7 @@ namespace Ex._09.ForceBook
                         if (team.Value.Contains(cmdSplitByLine[1]))
                         {
                             containsUser = true;
-                        } 
+                        }
                     }
 
                     if (teams.ContainsKey(cmdSplitByLine[0]))
@@ -65,8 +65,9 @@ namespace Ex._09.ForceBook
                     foreach (var team in teams)
                     {
                         if (team.Value.Contains(cmdSplitByArrow[0]))
+                        {
                             team.Value.Remove(cmdSplitByArrow[0]);
-
+                        }
                     }
 
                     if (!teams.ContainsKey(cmdSplitByArrow[1]))
