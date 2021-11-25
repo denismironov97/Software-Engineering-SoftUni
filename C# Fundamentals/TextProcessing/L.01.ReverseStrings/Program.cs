@@ -6,7 +6,20 @@ namespace L._01.ReverseStrings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input = Console.ReadLine(); // hello
+
+            while (input != "end")
+            {
+                string reversedInput = string.Empty;
+
+                for (int i = input.Length - 1; i >= 0; i--)
+                {
+                    reversedInput += input[i];
+                }
+
+                Console.WriteLine($"{input} = {reversedInput}");
+                input = Console.ReadLine();
+            }
         }
     }
 }
