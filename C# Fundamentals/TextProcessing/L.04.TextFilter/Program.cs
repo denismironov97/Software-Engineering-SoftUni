@@ -6,7 +6,19 @@ namespace L._04.TextFilter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] banListOfWords = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries);
+            string text = Console.ReadLine();
+
+            foreach (string banWord in banListOfWords)
+            {
+
+                if (text.Contains(banWord))
+                {
+                    text = text.Replace(banWord, new string('*', banWord.Length));
+                }
+            }
+
+            Console.WriteLine(text);
         }
     }
 }
