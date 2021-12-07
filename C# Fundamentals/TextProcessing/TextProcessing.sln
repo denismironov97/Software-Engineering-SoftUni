@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.04.TextFilterModV1", "L.0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.05.DigitsLettersAndOther", "L.05.DigitsLettersAndOther\L.05.DigitsLettersAndOther.csproj", "{BFF3A623-D60F-435A-8C28-1C3A177FA5D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.ValidUsernames", "Ex.01.ValidUsernames\Ex.01.ValidUsernames.csproj", "{DE98AD39-634F-4589-BEC1-69B4D52066A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.ValidUsernames", "Ex.01.ValidUsernames\Ex.01.ValidUsernames.csproj", "{DE98AD39-634F-4589-BEC1-69B4D52066A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.ValidUsernamesModV1", "Ex.01.ValidUsernamesModV1\Ex.01.ValidUsernamesModV1.csproj", "{A10A9301-41AD-461A-853A-4DDB34F1DCB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{DE98AD39-634F-4589-BEC1-69B4D52066A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE98AD39-634F-4589-BEC1-69B4D52066A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE98AD39-634F-4589-BEC1-69B4D52066A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10A9301-41AD-461A-853A-4DDB34F1DCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10A9301-41AD-461A-853A-4DDB34F1DCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10A9301-41AD-461A-853A-4DDB34F1DCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10A9301-41AD-461A-853A-4DDB34F1DCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
