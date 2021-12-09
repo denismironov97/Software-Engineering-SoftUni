@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.ValidUsernames", "Ex.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.ValidUsernamesModV1", "Ex.01.ValidUsernamesModV1\Ex.01.ValidUsernamesModV1.csproj", "{A10A9301-41AD-461A-853A-4DDB34F1DCB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.CharacterMultiplier", "Ex.02.CharacterMultiplier\Ex.02.CharacterMultiplier.csproj", "{734AB307-09B2-4B79-AF10-14E6F5F78A39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.CharacterMultiplier", "Ex.02.CharacterMultiplier\Ex.02.CharacterMultiplier.csproj", "{734AB307-09B2-4B79-AF10-14E6F5F78A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.CharacterMultiplierModV1", "Ex.02.CharacterMultiplierModV1\Ex.02.CharacterMultiplierModV1.csproj", "{46E49753-B486-45FB-A7BD-1C8D83302C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{734AB307-09B2-4B79-AF10-14E6F5F78A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{734AB307-09B2-4B79-AF10-14E6F5F78A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{734AB307-09B2-4B79-AF10-14E6F5F78A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E49753-B486-45FB-A7BD-1C8D83302C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E49753-B486-45FB-A7BD-1C8D83302C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E49753-B486-45FB-A7BD-1C8D83302C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E49753-B486-45FB-A7BD-1C8D83302C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
