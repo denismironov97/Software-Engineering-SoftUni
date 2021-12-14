@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.CharacterMultiplier",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.CharacterMultiplierModV1", "Ex.02.CharacterMultiplierModV1\Ex.02.CharacterMultiplierModV1.csproj", "{46E49753-B486-45FB-A7BD-1C8D83302C73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ExtractFile", "Ex.03.ExtractFile\Ex.03.ExtractFile.csproj", "{62677AE9-7874-4964-982D-B8531F70C579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ExtractFile", "Ex.03.ExtractFile\Ex.03.ExtractFile.csproj", "{62677AE9-7874-4964-982D-B8531F70C579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.03.ExtractFileModV1", "Ex.03.ExtractFileModV1\Ex.03.ExtractFileModV1.csproj", "{855FDFA7-331C-49B9-A367-EEA81B113CD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{62677AE9-7874-4964-982D-B8531F70C579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62677AE9-7874-4964-982D-B8531F70C579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62677AE9-7874-4964-982D-B8531F70C579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855FDFA7-331C-49B9-A367-EEA81B113CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855FDFA7-331C-49B9-A367-EEA81B113CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855FDFA7-331C-49B9-A367-EEA81B113CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855FDFA7-331C-49B9-A367-EEA81B113CD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
