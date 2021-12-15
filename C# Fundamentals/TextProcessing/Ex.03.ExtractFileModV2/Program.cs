@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Ex._03.ExtractFileModV2
 {
@@ -6,7 +7,16 @@ namespace Ex._03.ExtractFileModV2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] fileDirectoryPath = Console.ReadLine().Split('\\');
+
+            //string fileNameAndExtension = fileDirectoryPath.Last();
+            //string[] fileParts = fileNameAndExtension.Split('.');
+
+            var fileParts = fileDirectoryPath.Last().Split('.');
+            string extension = fileParts.Last();
+            string fileName = fileDirectoryPath.Last().Replace($".{extension}", "");
+            Console.WriteLine($"File name: { fileName}");
+            Console.WriteLine($"File extension: {extension}");
         }
     }
 }
