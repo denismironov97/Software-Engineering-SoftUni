@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.ExtractFileModV2", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.CaesarCipher", "Ex.04.CaesarCipher\Ex.04.CaesarCipher.csproj", "{2B708D10-A643-44A2-A87B-C821BC7DC245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.CaesarCipherModV1", "Ex.04.CaesarCipherModV1\Ex.04.CaesarCipherModV1.csproj", "{2EEFCD0D-8575-4BF1-B3F3-4F94D93C79EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.CaesarCipherModV1", "Ex.04.CaesarCipherModV1\Ex.04.CaesarCipherModV1.csproj", "{2EEFCD0D-8575-4BF1-B3F3-4F94D93C79EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.CaesarCipherModV2", "Ex.04.CaesarCipherModV2\Ex.04.CaesarCipherModV2.csproj", "{8A7F306D-E05F-4EF3-BDB2-C36FAE471881}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{2EEFCD0D-8575-4BF1-B3F3-4F94D93C79EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EEFCD0D-8575-4BF1-B3F3-4F94D93C79EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EEFCD0D-8575-4BF1-B3F3-4F94D93C79EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7F306D-E05F-4EF3-BDB2-C36FAE471881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7F306D-E05F-4EF3-BDB2-C36FAE471881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7F306D-E05F-4EF3-BDB2-C36FAE471881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7F306D-E05F-4EF3-BDB2-C36FAE471881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
