@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace Ex._05.MultiplyBigNumber
 {
@@ -6,7 +7,10 @@ namespace Ex._05.MultiplyBigNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BigInteger number1 = BigInteger.Parse(Console.ReadLine());
+            int number2 = int.Parse(Console.ReadLine());
+            BigInteger product = number1 * number2;
+            Console.WriteLine(product);
         }
     }
 }
