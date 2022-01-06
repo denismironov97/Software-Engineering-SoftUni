@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.CaesarCipherModV1", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.CaesarCipherModV2", "Ex.04.CaesarCipherModV2\Ex.04.CaesarCipherModV2.csproj", "{8A7F306D-E05F-4EF3-BDB2-C36FAE471881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.MultiplyBigNumber", "Ex.05.MultiplyBigNumber\Ex.05.MultiplyBigNumber.csproj", "{65094FC5-D62B-40F4-8DBF-E52F68CB7AE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.05.MultiplyBigNumber", "Ex.05.MultiplyBigNumber\Ex.05.MultiplyBigNumber.csproj", "{65094FC5-D62B-40F4-8DBF-E52F68CB7AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.05.MultiplyBigNumberModV1", "Ex.05.MultiplyBigNumberModV1\Ex.05.MultiplyBigNumberModV1.csproj", "{9758669D-775E-4DD1-A8AD-8DD84A143D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{65094FC5-D62B-40F4-8DBF-E52F68CB7AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65094FC5-D62B-40F4-8DBF-E52F68CB7AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65094FC5-D62B-40F4-8DBF-E52F68CB7AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9758669D-775E-4DD1-A8AD-8DD84A143D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758669D-775E-4DD1-A8AD-8DD84A143D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758669D-775E-4DD1-A8AD-8DD84A143D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758669D-775E-4DD1-A8AD-8DD84A143D8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
