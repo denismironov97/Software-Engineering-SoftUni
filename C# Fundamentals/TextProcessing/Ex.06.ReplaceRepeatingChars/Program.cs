@@ -21,17 +21,6 @@ namespace Ex._06.ReplaceRepeatingChars
             }
 
             Console.WriteLine(resultMessage);
-
-            //for (int i = 0; i < message.Length; i++)
-            //{
-            //    for (int j = i + 1; j < message.Length; j++)
-            //    {
-            //        if (message[i] == message[j])
-            //        {
-
-            //        } 
-            //    }
-            //}
         }
     }
 }
