@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.MatchPhoneNumberModV2"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.01.MatchFullNameModV2", "L.01.MatchFullNameModV2\L.01.MatchFullNameModV2.csproj", "{5550E567-4CB7-4B9B-B8F0-A8A048957190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.01.MatchFullNameModV3", "L.01.MatchFullNameModV3\L.01.MatchFullNameModV3.csproj", "{69C963B3-CBE7-461B-8A36-DE8D2DDFAC4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.01.MatchFullNameModV3", "L.01.MatchFullNameModV3\L.01.MatchFullNameModV3.csproj", "{69C963B3-CBE7-461B-8A36-DE8D2DDFAC4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.02.MatchPhoneNumber", "L.02.MatchPhoneNumber\L.02.MatchPhoneNumber.csproj", "{F859AC55-60B3-4E95-A853-E2C4188BD159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{69C963B3-CBE7-461B-8A36-DE8D2DDFAC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C963B3-CBE7-461B-8A36-DE8D2DDFAC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C963B3-CBE7-461B-8A36-DE8D2DDFAC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F859AC55-60B3-4E95-A853-E2C4188BD159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F859AC55-60B3-4E95-A853-E2C4188BD159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F859AC55-60B3-4E95-A853-E2C4188BD159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F859AC55-60B3-4E95-A853-E2C4188BD159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
