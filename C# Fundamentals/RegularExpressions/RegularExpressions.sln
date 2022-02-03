@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.02.MatchPhoneNumberModV5"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.03.MatchDates", "L.03.MatchDates\L.03.MatchDates.csproj", "{55B819DE-06CA-4D71-A237-7C050414CF8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.03.MatchDatesModV1", "L.03.MatchDatesModV1\L.03.MatchDatesModV1.csproj", "{EE8235ED-6020-494B-9598-7ACC3F68F791}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.03.MatchDatesModV1", "L.03.MatchDatesModV1\L.03.MatchDatesModV1.csproj", "{EE8235ED-6020-494B-9598-7ACC3F68F791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.Furniture", "Ex.01.Furniture\Ex.01.Furniture.csproj", "{1FE30D52-B7BC-49D5-9647-0EC742CE3199}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{EE8235ED-6020-494B-9598-7ACC3F68F791}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE8235ED-6020-494B-9598-7ACC3F68F791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE8235ED-6020-494B-9598-7ACC3F68F791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE30D52-B7BC-49D5-9647-0EC742CE3199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE30D52-B7BC-49D5-9647-0EC742CE3199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE30D52-B7BC-49D5-9647-0EC742CE3199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE30D52-B7BC-49D5-9647-0EC742CE3199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
