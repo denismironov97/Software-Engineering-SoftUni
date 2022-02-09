@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lab._01.ReverseStrings
 {
@@ -6,7 +7,9 @@ namespace Lab._01.ReverseStrings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string input = Console.ReadLine();
+            Stack<char> reversedInput = new Stack<char>(input);
+            Console.WriteLine(string.Join("", reversedInput));
         }
     }
 }
