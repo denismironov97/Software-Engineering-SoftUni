@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.ReverseStrings", "Lab.01.ReverseStrings\Lab.01.ReverseStrings.csproj", "{5C86E5A4-3768-48D2-A5E6-7FA4167F3E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.ReverseStringsModV1", "Lab.01.ReverseStringsModV1\Lab.01.ReverseStringsModV1.csproj", "{065C3157-DD67-4A4D-ACAB-DD8140C0DFD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.ReverseStringsModV1", "Lab.01.ReverseStringsModV1\Lab.01.ReverseStringsModV1.csproj", "{065C3157-DD67-4A4D-ACAB-DD8140C0DFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.StackSum", "Lab.02.StackSum\Lab.02.StackSum.csproj", "{FABB322D-A1A2-4429-B2A3-E619A631954A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{065C3157-DD67-4A4D-ACAB-DD8140C0DFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065C3157-DD67-4A4D-ACAB-DD8140C0DFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065C3157-DD67-4A4D-ACAB-DD8140C0DFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
