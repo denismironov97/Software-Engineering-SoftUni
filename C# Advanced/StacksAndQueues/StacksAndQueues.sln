@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.ReverseStrings", "La
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.ReverseStringsModV1", "Lab.01.ReverseStringsModV1\Lab.01.ReverseStringsModV1.csproj", "{065C3157-DD67-4A4D-ACAB-DD8140C0DFD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.StackSum", "Lab.02.StackSum\Lab.02.StackSum.csproj", "{FABB322D-A1A2-4429-B2A3-E619A631954A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.StackSum", "Lab.02.StackSum\Lab.02.StackSum.csproj", "{FABB322D-A1A2-4429-B2A3-E619A631954A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.SimpleCalculator", "Lab.03.SimpleCalculator\Lab.03.SimpleCalculator.csproj", "{17C5C9EA-9889-4086-9087-E5FFB7C9292C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABB322D-A1A2-4429-B2A3-E619A631954A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C5C9EA-9889-4086-9087-E5FFB7C9292C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C5C9EA-9889-4086-9087-E5FFB7C9292C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C5C9EA-9889-4086-9087-E5FFB7C9292C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C5C9EA-9889-4086-9087-E5FFB7C9292C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
