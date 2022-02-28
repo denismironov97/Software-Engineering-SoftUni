@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.SimpleCalculator", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.04.MatchingBrackets", "Lab.04.MatchingBrackets\Lab.04.MatchingBrackets.csproj", "{B989F344-DA7B-4404-BE8B-40CB9EB529AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.PrintEvenNumbers", "Lab.05.PrintEvenNumbers\Lab.05.PrintEvenNumbers.csproj", "{3EFE12B2-0874-409A-953C-63E6C1F20792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.PrintEvenNumbers", "Lab.05.PrintEvenNumbers\Lab.05.PrintEvenNumbers.csproj", "{3EFE12B2-0874-409A-953C-63E6C1F20792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.06.Supermarket", "Lab.06.Supermarket\Lab.06.Supermarket.csproj", "{02DF2E32-74E1-4880-8767-0A888161AE02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3EFE12B2-0874-409A-953C-63E6C1F20792}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EFE12B2-0874-409A-953C-63E6C1F20792}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EFE12B2-0874-409A-953C-63E6C1F20792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DF2E32-74E1-4880-8767-0A888161AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DF2E32-74E1-4880-8767-0A888161AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DF2E32-74E1-4880-8767-0A888161AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DF2E32-74E1-4880-8767-0A888161AE02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
