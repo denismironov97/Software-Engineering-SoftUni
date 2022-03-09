@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.MaximumAndMinimumElem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.FastFood", "Ex.04.FastFood\Ex.04.FastFood.csproj", "{EFD5D084-9C4F-4ADF-B446-6D34BB5B3181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.FastFoodModV1", "Ex.04.FastFoodModV1\Ex.04.FastFoodModV1.csproj", "{3FBA4245-BB05-43D6-BC93-ADFDB91E88F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{EFD5D084-9C4F-4ADF-B446-6D34BB5B3181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFD5D084-9C4F-4ADF-B446-6D34BB5B3181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFD5D084-9C4F-4ADF-B446-6D34BB5B3181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBA4245-BB05-43D6-BC93-ADFDB91E88F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBA4245-BB05-43D6-BC93-ADFDB91E88F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBA4245-BB05-43D6-BC93-ADFDB91E88F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBA4245-BB05-43D6-BC93-ADFDB91E88F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
