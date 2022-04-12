@@ -24,8 +24,6 @@ namespace Lab._07.PascalTriangle
                     {
                         pascalTriangle[row][col] = 1;
                     }
-
-                    // check the algorithm tomorrow 
                 }
             }
 
