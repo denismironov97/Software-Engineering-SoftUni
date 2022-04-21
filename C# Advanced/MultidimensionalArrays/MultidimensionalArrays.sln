@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.06.JaggedArrayModificat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.07.PascalTriangle", "Lab.07.PascalTriangle\Lab.07.PascalTriangle.csproj", "{05A9C52D-2B80-4F1C-9726-347E95129454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.DiagonalDifference", "Ex.01.DiagonalDifference\Ex.01.DiagonalDifference.csproj", "{9ED1532B-8BC3-4325-865E-436B949A81E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.DiagonalDifference", "Ex.01.DiagonalDifference\Ex.01.DiagonalDifference.csproj", "{9ED1532B-8BC3-4325-865E-436B949A81E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.DiagonalDifferenceVer1", "Ex.01.DiagonalDifferenceVer1\Ex.01.DiagonalDifferenceVer1.csproj", "{4651D8C5-A49C-4475-A793-A89305FB6C81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{9ED1532B-8BC3-4325-865E-436B949A81E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED1532B-8BC3-4325-865E-436B949A81E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED1532B-8BC3-4325-865E-436B949A81E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4651D8C5-A49C-4475-A793-A89305FB6C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4651D8C5-A49C-4475-A793-A89305FB6C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4651D8C5-A49C-4475-A793-A89305FB6C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4651D8C5-A49C-4475-A793-A89305FB6C81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
