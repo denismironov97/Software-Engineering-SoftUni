@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Lab._05.RecrdUniqName
 {
@@ -6,7 +7,16 @@ namespace Lab._05.RecrdUniqName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int nLines = int.Parse(Console.ReadLine());
+            HashSet<string> uniqueNames = new HashSet<string>();
+
+            for (int i = 0; i < nLines; i++)
+            {
+                string name = Console.ReadLine();
+                uniqueNames.Add(name);
+            }
+
+            Console.WriteLine(string.Join(Environment.NewLine, uniqueNames));
         }
     }
 }
