@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.SetsOfElements", "Ex.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.PeriodicTable", "Ex.03.PeriodicTable\Ex.03.PeriodicTable.csproj", "{79C77DC0-CDA7-47D2-BB65-0A472EE2B332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.EvenTimes", "Ex.04.EvenTimes\Ex.04.EvenTimes.csproj", "{74551E7C-9A39-4452-AD52-F2116923B44B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.EvenTimes", "Ex.04.EvenTimes\Ex.04.EvenTimes.csproj", "{74551E7C-9A39-4452-AD52-F2116923B44B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.CountSymbols", "Ex05.CountSymbols\Ex05.CountSymbols.csproj", "{6FAEAB30-41AB-415D-BD45-690A2A6DAADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05.CountSymbols", "Ex05.CountSymbols\Ex05.CountSymbols.csproj", "{6FAEAB30-41AB-415D-BD45-690A2A6DAADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06.Wardrobe", "Ex06.Wardrobe\Ex06.Wardrobe.csproj", "{006DFFBA-CE02-4C30-AE94-6B9426DB8557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{6FAEAB30-41AB-415D-BD45-690A2A6DAADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FAEAB30-41AB-415D-BD45-690A2A6DAADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FAEAB30-41AB-415D-BD45-690A2A6DAADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006DFFBA-CE02-4C30-AE94-6B9426DB8557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006DFFBA-CE02-4C30-AE94-6B9426DB8557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006DFFBA-CE02-4C30-AE94-6B9426DB8557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006DFFBA-CE02-4C30-AE94-6B9426DB8557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
