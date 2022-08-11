@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.01.SortEvenNumbers", "Lab.01.SortEvenNumbers\Lab.01.SortEvenNumbers.csproj", "{C0D5B620-DEE7-4083-843E-D31B6B228132}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.SortEvenNumbers", "Lab.01.SortEvenNumbers\Lab.01.SortEvenNumbers.csproj", "{C0D5B620-DEE7-4083-843E-D31B6B228132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.02.SumNumbers", "Lab.02.SumNumbers\Lab.02.SumNumbers.csproj", "{4758C5D3-426D-41C5-8788-963FA32D5D52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.02.SumNumbers", "Lab.02.SumNumbers\Lab.02.SumNumbers.csproj", "{4758C5D3-426D-41C5-8788-963FA32D5D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.03.CountUppercaseWords", "Lab.03.CountUppercaseWords\Lab.03.CountUppercaseWords.csproj", "{B501301F-BA15-438F-8F54-879AD76D6A82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4758C5D3-426D-41C5-8788-963FA32D5D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4758C5D3-426D-41C5-8788-963FA32D5D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4758C5D3-426D-41C5-8788-963FA32D5D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B501301F-BA15-438F-8F54-879AD76D6A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B501301F-BA15-438F-8F54-879AD76D6A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B501301F-BA15-438F-8F54-879AD76D6A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B501301F-BA15-438F-8F54-879AD76D6A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
