@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32510.428
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.SortEvenNumbers", "Lab.01.SortEvenNumbers\Lab.01.SortEvenNumbers.csproj", "{C0D5B620-DEE7-4083-843E-D31B6B228132}"
 EndProject
@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.FilterByAge", "Lab.0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.FilterByAgeModV1", "Lab.05.FilterByAgeModV1\Lab.05.FilterByAgeModV1.csproj", "{F0069D6D-6344-43F0-A735-D6D5178B5903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.ActionPrint", "Ex.01.ActionPrint\Ex.01.ActionPrint.csproj", "{A309FA08-271F-481B-BEBD-34CD71140C31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.ActionPrint", "Ex.01.ActionPrint\Ex.01.ActionPrint.csproj", "{A309FA08-271F-481B-BEBD-34CD71140C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.KnightsOfHonor", "Ex.02.KnightsOfHonor\Ex.02.KnightsOfHonor.csproj", "{F367547D-7303-4020-9E37-8E275FEC1FC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A309FA08-271F-481B-BEBD-34CD71140C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A309FA08-271F-481B-BEBD-34CD71140C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A309FA08-271F-481B-BEBD-34CD71140C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F367547D-7303-4020-9E37-8E275FEC1FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F367547D-7303-4020-9E37-8E275FEC1FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F367547D-7303-4020-9E37-8E275FEC1FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F367547D-7303-4020-9E37-8E275FEC1FC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
