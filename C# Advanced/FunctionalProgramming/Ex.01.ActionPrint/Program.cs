@@ -6,7 +6,13 @@ namespace Ex._01.ActionPrint
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] inputData = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            Action<string> printAction = x => Console.WriteLine(x);
+
+            foreach (string item in inputData)
+            {
+                printAction(item);
+            }
         }
     }
 }
