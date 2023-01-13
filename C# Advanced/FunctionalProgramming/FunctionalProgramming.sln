@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.03.CountUppercaseWords"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.04.AddVAT", "Lab.04.AddVAT\Lab.04.AddVAT.csproj", "{10A10E26-3ADE-42EF-8C07-75A11E62F985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.FilterByAge", "Lab.05.FilterByAge\Lab.05.FilterByAge.csproj", "{11910D33-00B9-4AE2-B425-980B9B6A2BF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.FilterByAge", "Lab.05.FilterByAge\Lab.05.FilterByAge.csproj", "{11910D33-00B9-4AE2-B425-980B9B6A2BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.05.FilterByAgeModV1", "Lab.05.FilterByAgeModV1\Lab.05.FilterByAgeModV1.csproj", "{F0069D6D-6344-43F0-A735-D6D5178B5903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.05.FilterByAgeModV1", "Lab.05.FilterByAgeModV1\Lab.05.FilterByAgeModV1.csproj", "{F0069D6D-6344-43F0-A735-D6D5178B5903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.01.ActionPrint", "Ex.01.ActionPrint\Ex.01.ActionPrint.csproj", "{A309FA08-271F-481B-BEBD-34CD71140C31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F0069D6D-6344-43F0-A735-D6D5178B5903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0069D6D-6344-43F0-A735-D6D5178B5903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0069D6D-6344-43F0-A735-D6D5178B5903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A309FA08-271F-481B-BEBD-34CD71140C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A309FA08-271F-481B-BEBD-34CD71140C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A309FA08-271F-481B-BEBD-34CD71140C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A309FA08-271F-481B-BEBD-34CD71140C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
