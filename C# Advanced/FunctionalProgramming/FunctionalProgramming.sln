@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33214.272
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.01.SortEvenNumbers", "Lab.01.SortEvenNumbers\Lab.01.SortEvenNumbers.csproj", "{C0D5B620-DEE7-4083-843E-D31B6B228132}"
 EndProject
@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.01.ActionPrint", "Ex.01.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.03.CustomMinFunction", "Ex.03.CustomMinFunction\Ex.03.CustomMinFunction.csproj", "{FCE816FB-8A35-49C5-8E10-8F29882F9EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.02.KnightsOfHonor", "Ex.02.KnightsOfHonor\Ex.02.KnightsOfHonor.csproj", "{5CAA7569-DE63-4B6A-8B24-CD1DFD6CF410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.KnightsOfHonor", "Ex.02.KnightsOfHonor\Ex.02.KnightsOfHonor.csproj", "{5CAA7569-DE63-4B6A-8B24-CD1DFD6CF410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.FindEvensOrOdds", "Ex.04.FindEvensOrOdds\Ex.04.FindEvensOrOdds.csproj", "{0CDE7E30-64E8-4D4F-B9BF-8713DA56CFA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{5CAA7569-DE63-4B6A-8B24-CD1DFD6CF410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAA7569-DE63-4B6A-8B24-CD1DFD6CF410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAA7569-DE63-4B6A-8B24-CD1DFD6CF410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDE7E30-64E8-4D4F-B9BF-8713DA56CFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDE7E30-64E8-4D4F-B9BF-8713DA56CFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDE7E30-64E8-4D4F-B9BF-8713DA56CFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDE7E30-64E8-4D4F-B9BF-8713DA56CFA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
