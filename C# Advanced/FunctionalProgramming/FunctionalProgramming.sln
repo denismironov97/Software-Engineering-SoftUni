@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.02.KnightsOfHonor", "Ex.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.FindEvensOrOdds", "Ex.04.FindEvensOrOdds\Ex.04.FindEvensOrOdds.csproj", "{0CDE7E30-64E8-4D4F-B9BF-8713DA56CFA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.FindEvensOrOddsV1", "Ex.04.FindEvensOrOddsV1\Ex.04.FindEvensOrOddsV1.csproj", "{7598C403-C23C-4DFF-B3BF-A10E6178ED34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.04.FindEvensOrOddsV1", "Ex.04.FindEvensOrOddsV1\Ex.04.FindEvensOrOddsV1.csproj", "{7598C403-C23C-4DFF-B3BF-A10E6178ED34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04.FindEvensOrOddsV2", "Ex.04.FindEvensOrOddsV2\Ex.04.FindEvensOrOddsV2.csproj", "{22D348FB-F159-4313-95E3-602B6F8454B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{7598C403-C23C-4DFF-B3BF-A10E6178ED34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7598C403-C23C-4DFF-B3BF-A10E6178ED34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7598C403-C23C-4DFF-B3BF-A10E6178ED34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D348FB-F159-4313-95E3-602B6F8454B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D348FB-F159-4313-95E3-602B6F8454B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D348FB-F159-4313-95E3-602B6F8454B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D348FB-F159-4313-95E3-602B6F8454B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
