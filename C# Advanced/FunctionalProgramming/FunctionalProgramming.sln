@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.08.CustomComparator", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.09.ListOfPredicates", "Ex.09.ListOfPredicates\Ex.09.ListOfPredicates.csproj", "{0EDD410F-B222-4ADB-918C-7A0B45DBDA6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.10.PredicateParty!", "Ex.10.PredicateParty!\Ex.10.PredicateParty!.csproj", "{71A8B4E8-C225-436F-B647-DEBD4FCB9DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex.10.PredicateParty!", "Ex.10.PredicateParty!\Ex.10.PredicateParty!.csproj", "{71A8B4E8-C225-436F-B647-DEBD4FCB9DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.10.PredicateParty!V1", "Ex.10.PredicateParty!V1\Ex.10.PredicateParty!V1.csproj", "{D0B29E50-A9CA-4E23-AE83-DE5E9B290670}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{71A8B4E8-C225-436F-B647-DEBD4FCB9DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A8B4E8-C225-436F-B647-DEBD4FCB9DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A8B4E8-C225-436F-B647-DEBD4FCB9DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B29E50-A9CA-4E23-AE83-DE5E9B290670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B29E50-A9CA-4E23-AE83-DE5E9B290670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B29E50-A9CA-4E23-AE83-DE5E9B290670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B29E50-A9CA-4E23-AE83-DE5E9B290670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
